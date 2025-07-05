@@ -1,0 +1,1377 @@
+[
+  {
+    "claim": "Artificial intelligence will inevitably lead to widespread unemployment.",
+    "num_articles": 5,
+    "output": {
+      "summary": "The Forum’s Future of Jobs Report 2025 reveals that 40% of employers expect to reduce their workforce where AI can automate tasks.<a href=\"https://www.weforum.org/stories/2025/04/ai-jobs-international-workers-day/\">[1]</a> AI has already displaced hundreds of thousands of workers.<a href=\"https://explodingtopics.com/blog/ai-replacing-jobs\">[2]</a> AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.<a href=\"https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic\">[3]</a> Over the 2023–33 employment projections period, AI is expected to primarily affect occupations whose core tasks can be most easily replicated by Generative AI in its current form.<a href=\"https://www.bls.gov/opub/ted/2025/ai-impacts-in-bls-employment-projections.htm\">[4]</a> Technology, overall, is projected to be the most disruptive force in the labour market, with trends in AI and information processing technology expected to create 11 million jobs, while simultaneously displacing 9 million others.<a href=\"https://www.weforum.org/stories/2025/04/ai-jobs-international-workers-day/\">[1]</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "While multiple reputable sources confirm that AI has already displaced many jobs and is projected to cause further workforce reductions, other sources highlight that AI will also create new jobs and augment existing roles. The evidence does not conclusively support the inevitability of widespread unemployment, as projections also anticipate significant new job creation and job evolution alongside displacement.",
+      "subclaims": [
+        {
+          "claim": "The Forum’s Future of Jobs Report 2025 reveals that 40% of employers expect to reduce their workforce where AI can automate tasks.",
+          "title": "Is AI closing the door on entry-level job opportunities?",
+          "authors": "World Economic Forum Editorial Staff",
+          "section": "How AI could be closing the door on talent...",
+          "paragraph": "The Forum’s Future of Jobs Report 2025 reveals that 40% of employers expect to reduce their workforce where AI can automate tasks. Technology, overall, is projected to be the most disruptive force in the labour market, with trends in AI and information processing technology expected to create 11 million jobs, while simultaneously displacing 9 million others.",
+          "url": "https://www.weforum.org/stories/2025/04/ai-jobs-international-workers-day/",
+          "venue": "World Economic Forum",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "The Forum’s Future of Jobs Report 2025 reveals that 40% of employers expect to reduce their workforce where AI can automate tasks.",
+          "supporting_assumptions": [
+            "Employer expectations will translate into actual workforce reductions.",
+            "AI adoption rates predicted will be realized."
+          ],
+          "refuting_assumptions": [
+            "Unexpected shifts in technology or policy slow automation.",
+            "Workforce adaptation or reskilling mitigates reductions."
+          ],
+          "credibility_score": "Global survey, WEF report"
+        },
+        {
+          "claim": "AI has already displaced hundreds of thousands of workers.",
+          "title": "60+ Stats On AI Replacing Jobs (2025) - Exploding Topics",
+          "authors": "Exploding Topics Research Team",
+          "section": "AI’s Current Impact On the Job Market",
+          "paragraph": "AI has already displaced hundreds of thousands of workers. Additionally, people who were replaced by a robot gave a far higher estimate of the proportion of workers who have experienced the same when compared to workers who had not lost their job to a robot. Those who had been replaced estimated that 46.9% of US workers had experienced the same, while people who hadn’t been replaced estimated that 29% of workers had been replaced. Both groups still wildly overestimated the true number of workers who had lost their job to a robot.",
+          "url": "https://explodingtopics.com/blog/ai-replacing-jobs",
+          "venue": "Exploding Topics",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "AI has already displaced hundreds of thousands of workers.",
+          "supporting_assumptions": [
+            "Reported displacement is directly due to AI automation.",
+            "Data is reliable and up-to-date."
+          ],
+          "refuting_assumptions": [
+            "Figures are exaggerated or reflect temporary layoffs.",
+            "Counterbalancing job creation has occurred."
+          ],
+          "credibility_score": "Report cites BLS, company surveys"
+        },
+        {
+          "claim": "AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.",
+          "title": "AI jobs danger: Sleepwalking into a white-collar bloodbath",
+          "authors": "Axios staff, interview with Dario Amodei",
+          "section": "Main article body",
+          "paragraph": "Dario Amodei — CEO of Anthropic, one of the world's most powerful creators of artificial intelligence — has a blunt, scary warning for the U.S. government and all of us: AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.",
+          "url": "https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic",
+          "venue": "Axios",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.",
+          "supporting_assumptions": [
+            "Amodei’s predictions are methodologically sound.",
+            "Entry-level white-collar automation scales rapidly."
+          ],
+          "refuting_assumptions": [
+            "Market adapts with new roles at pace.",
+            "Predictions are overestimated for effect."
+          ],
+          "credibility_score": "Interview with industry leader, Axios"
+        },
+        {
+          "claim": "Over the 2023–33 employment projections period, AI is expected to primarily affect occupations whose core tasks can be most easily replicated by Generative AI in its current form.",
+          "title": "AI impacts in BLS employment projections",
+          "authors": "Bureau of Labor Statistics",
+          "section": "AI impacts in BLS employment projections",
+          "paragraph": "Over the 2023–33 employment projections period, AI is expected to primarily affect occupations whose core tasks can be most easily replicated by Generative AI in its current form. However, other jobs, including some in the computer, legal, business and financial, and architecture and engineering occupational groups are also potentially susceptible to AI-related impacts, although the employment trajectories of these occupations remain uncertain.",
+          "url": "https://www.bls.gov/opub/ted/2025/ai-impacts-in-bls-employment-projections.htm",
+          "venue": "U.S. Bureau of Labor Statistics",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Over the 2023–33 employment projections period, AI is expected to primarily affect occupations whose core tasks can be most easily replicated by Generative AI in its current form.",
+          "supporting_assumptions": [
+            "Current forms of Generative AI are widely adopted.",
+            "Occupational core tasks are not substantially redefined."
+          ],
+          "refuting_assumptions": [
+            "Workforce adapts with job redesign.",
+            "AI is used more for augmentation than replacement."
+          ],
+          "credibility_score": "Government projections, BLS"
+        },
+        {
+          "claim": "Technology, overall, is projected to be the most disruptive force in the labour market, with trends in AI and information processing technology expected to create 11 million jobs, while simultaneously displacing 9 million others.",
+          "title": "Is AI closing the door on entry-level job opportunities?",
+          "authors": "World Economic Forum Editorial Staff",
+          "section": "How AI could be closing the door on talent...",
+          "paragraph": "Technology, overall, is projected to be the most disruptive force in the labour market, with trends in AI and information processing technology expected to create 11 million jobs, while simultaneously displacing 9 million others.",
+          "url": "https://www.weforum.org/stories/2025/04/ai-jobs-international-workers-day/",
+          "venue": "World Economic Forum",
+          "year": "2025",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Technology, overall, is projected to be the most disruptive force in the labour market, with trends in AI and information processing technology expected to create 11 million jobs, while simultaneously displacing 9 million others.",
+          "supporting_assumptions": [
+            "Job creation figures reflect new and reskilled roles.",
+            "Displacement is not absolute."
+          ],
+          "refuting_assumptions": [
+            "Displaced workers cannot transition to newly created roles.",
+            "Job creation is overestimated."
+          ],
+          "credibility_score": "World Economic Forum projections"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Universal basic income will eliminate poverty.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Studies have shown that UBI can reduce poverty rates, particularly among vulnerable groups such as children and the elderly.<a href=\"https://borgenproject.org/solution-to-end-poverty/\">[1]</a> UBI proponents believe that giving low-income individuals and their families a reliable source of income is a great way to combat poverty and unfairness in society.<a href=\"https://www.developmentaid.org/news-stream/post/165953/can-universal-basic-income-eradicate-poverty\">[2]</a> What is fairly clear is that UBI would go a long way in alleviating poverty and increasing the income security of the most vulnerable in our society.<a href=\"https://www.employment-studies.co.uk/news/universal-basic-income-pros-cons-and-evidence\">[3]</a> Multiple recent studies have shown that UBI can lead to improved health outcomes and increased employment for recipients of UBI.<a href=\"https://globalaffairs.org/commentary-and-analysis/blogs/multiple-countries-have-tested-universal-basic-income-and-it-works\">[4]</a> Pro 1: UBI reduces poverty and income inequality and improves physical and mental health.<a href=\"https://www.britannica.com/procon/universal-basic-income-UBI-debate\">[5]</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The articles consistently find that UBI can reduce poverty and improve well-being but stop short of claiming that it will completely eliminate poverty. Most evidence shows significant poverty alleviation, improved health, and greater financial security, especially among vulnerable groups, but no study claims universal eradication of poverty. Thus, the claim is partially true: UBI is a powerful anti-poverty measure, but it does not absolutely guarantee the elimination of poverty under all conditions.",
+      "subclaims": [
+        {
+          "claim": "Studies have shown that UBI can reduce poverty rates, particularly among vulnerable groups such as children and the elderly.",
+          "title": "Universal Basic Income as a Solution to End Poverty",
+          "authors": "The Borgen Project editorial team",
+          "section": "Studies and Pilot Projects",
+          "paragraph": "Studies have shown that UBI can reduce poverty rates, particularly among vulnerable groups such as children and the elderly. Research shows that a UBI pilot project introduced in the 1970s in the Canadian town of Dauphin led to a reduction in poverty rates and improved health outcomes as hospitalization rates declined by 8.5% in four years, mental health improved and more students completed secondary school.",
+          "url": "https://borgenproject.org/solution-to-end-poverty/",
+          "venue": "The Borgen Project Blog",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Studies have shown that UBI can reduce poverty rates, particularly among vulnerable groups such as children and the elderly.",
+          "supporting_assumptions": [
+            "UBI is implemented at a sufficient level",
+            "Vulnerable groups are included as recipients"
+          ],
+          "refuting_assumptions": [
+            "UBI payments are too low",
+            "Other systemic factors limit impact"
+          ],
+          "credibility_score": "Mid (blog post citing multiple studies)"
+        },
+        {
+          "claim": "UBI proponents believe that giving low-income individuals and their families a reliable source of income is a great way to combat poverty and unfairness in society.",
+          "title": "Can Universal Basic Income eradicate poverty? Pros and ...",
+          "authors": "DevelopmentAid editorial team",
+          "section": "Can Universal Basic Income reduce poverty?",
+          "paragraph": "UBI proponents believe that giving low-income individuals and their families a reliable source of income is a great way to combat poverty and unfairness in society. They argue that UBI will provide access to high-quality education rather than having to work to earn a living, and children in poor households will have free time to learn as their parents will have additional income in the form of the monthly UBI.",
+          "url": "https://www.developmentaid.org/news-stream/post/165953/can-universal-basic-income-eradicate-poverty",
+          "venue": "DevelopmentAid News Stream",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "UBI proponents believe that giving low-income individuals and their families a reliable source of income is a great way to combat poverty and unfairness in society.",
+          "supporting_assumptions": [
+            "Income is adequate to meet living costs",
+            "UBI is administered effectively"
+          ],
+          "refuting_assumptions": [
+            "UBI is insufficient",
+            "Other forms of inequality persist"
+          ],
+          "credibility_score": "Medium"
+        },
+        {
+          "claim": "What is fairly clear is that UBI would go a long way in alleviating poverty and increasing the income security of the most vulnerable in our society.",
+          "title": "Universal basic income: pros, cons and evidence",
+          "authors": "Institute for Employment Studies editorial team",
+          "section": "Pros and cons of UBI",
+          "paragraph": "What is fairly clear is that UBI would go a long way in alleviating poverty and increasing the income security of the most vulnerable in our society. A regular, unconditional cash payment would by definition increase recipients’ income levels. This would be especially large in relative terms for those at the bottom of the income spectrum, reducing economic inequality as the difference in the incomes between those at the top and bottom ends of the spectrum would decrease.",
+          "url": "https://www.employment-studies.co.uk/news/universal-basic-income-pros-cons-and-evidence",
+          "venue": "Institute for Employment Studies Blog",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "What is fairly clear is that UBI would go a long way in alleviating poverty and increasing the income security of the most vulnerable in our society.",
+          "supporting_assumptions": [
+            "UBI covers all citizens and is above the poverty line",
+            "Other support systems remain available"
+          ],
+          "refuting_assumptions": [
+            "UBI is set below subsistence level",
+            "Inflation offsets UBI gains"
+          ],
+          "credibility_score": "Medium"
+        },
+        {
+          "claim": "Multiple recent studies have shown that UBI can lead to improved health outcomes and increased employment for recipients of UBI.",
+          "title": "Does universal basic income work? These countries are ...",
+          "authors": "Global Affairs editorial team",
+          "section": "Does UBI work?",
+          "paragraph": "Multiple recent studies have shown that UBI can lead to improved health outcomes and increased employment for recipients of UBI.",
+          "url": "https://globalaffairs.org/commentary-and-analysis/blogs/multiple-countries-have-tested-universal-basic-income-and-it-works",
+          "venue": "Global Affairs",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Multiple recent studies have shown that UBI can lead to improved health outcomes and increased employment for recipients of UBI.",
+          "supporting_assumptions": [
+            "UBI is maintained consistently",
+            "Health and employment outcomes are measured correctly"
+          ],
+          "refuting_assumptions": [
+            "Effects are short-term",
+            "Other negative economic changes offset health benefits"
+          ],
+          "credibility_score": "Medium"
+        },
+        {
+          "claim": "Pro 1: UBI reduces poverty and income inequality and improves physical and mental health.",
+          "title": "Universal Basic Income (UBI) | Pros, Cons, Debate, ...",
+          "authors": "Britannica ProCon.org editors",
+          "section": "Pros of Universal Basic Income",
+          "paragraph": "Pro 1: UBI reduces poverty and income inequality and improves physical and mental health.",
+          "url": "https://www.britannica.com/procon/universal-basic-income-UBI-debate",
+          "venue": "Britannica ProCon.org",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Pro 1: UBI reduces poverty and income inequality and improves physical and mental health.",
+          "supporting_assumptions": [
+            "UBI is well-funded",
+            "Implemented universally"
+          ],
+          "refuting_assumptions": [
+            "Structural inequalities persist",
+            "Inflation undermines UBI"
+          ],
+          "credibility_score": "High"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Migration leads to increased crime rates in host countries.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Immigrants are disproportionately represented in prison populations in many Western countries, though notable exceptions exist, such as the United States<a href=\"https://en.wikipedia.org/wiki/Immigration_and_crime\">[1]</a>. The influx of refugees increases the supply of labour in the relevant labour market, which may raise the propensity for crime not only for refugees, but also for native unskilled workers who face diminished labour market opportunities<a href=\"https://cepr.org/voxeu/columns/crime-effect-refugees\">[2]</a>. The study found that total crime per person decreased due to the arrival of refugees, except for smuggling, which increased<a href=\"https://eaf.ku.edu.tr/wp-content/uploads/2021/08/erf_wp_2113.pdf\">[3]</a>. Data shows that immigrants, often younger, male, and less educated compared to natives, are disproportionately represented among offenders in numerous host countries<a href=\"https://www.aeaweb.org/articles?id=10.1257%2Fjep.38.1.181\">[4]</a>. While immigrants are overrepresented in prison populations in many Western countries, with notable exceptions such as the United States, most studies fail to show a causal effect of immigration on overall crime rates<a href=\"https://en.wikipedia.org/wiki/Immigration_and_crime\">[1]</a>.",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "While there is evidence of disproportionate immigrant representation in crime statistics and prisons in some countries, most systematic empirical studies do not find a clear causal relationship between migration and increased overall crime rates. Some data indicate that crime rates may even decrease with refugee arrivals, except for specific offenses such as smuggling. The claim is thus only partially supported, as increased migration does not universally lead to increased crime rates, and socioeconomic context plays a significant moderating role.",
+      "subclaims": [
+        {
+          "claim": "Immigrants are disproportionately represented in prison populations in many Western countries, though notable exceptions exist, such as the United States.",
+          "title": "Immigration and crime - Wikipedia",
+          "authors": "Wikipedia contributors",
+          "section": "Factors",
+          "paragraph": "Immigrants are disproportionately represented in prison populations in many Western countries, though notable exceptions exist, such as the United States. In ...",
+          "url": "https://en.wikipedia.org/wiki/Immigration_and_crime",
+          "venue": "Wikipedia",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Immigrants are disproportionately represented in prison populations in many Western countries, though notable exceptions exist, such as the United States.",
+          "supporting_assumptions": [
+            "Prison population data accurately reflects crime involvement",
+            "Overrepresentation is not due to biased law enforcement"
+          ],
+          "refuting_assumptions": [
+            "Data may be confounded by selective enforcement or other biases",
+            "Not all countries show the same trend"
+          ],
+          "credibility_score": "Wikipedia page, references multiple studies"
+        },
+        {
+          "claim": "The influx of refugees increases the supply of labour in the relevant labour market, which may raise the propensity for crime not only for refugees, but also for native unskilled workers who face diminished labour market opportunities.",
+          "title": "The crime effect of refugees | CEPR",
+          "authors": "Murat G. Kirdar, Derya Kocabas, Meltem Dayioglu",
+          "section": "Refugees’ impact on crime: Possible channels",
+          "paragraph": "The mechanism through which refugees can impact crime has two primary channels. First, the influx of refugees increases the supply of labour in the relevant labour market. For example, if the average human capital of refugees is lower than that of natives, and if jobs with higher skill content require the aptitude of speaking the language of residence (Foged et al. 2021), refugee labour is expected to increase unemployment and decrease wages in the market for low-skilled labour. This effect may raise the propensity for crime not only for refugees, but also for native unskilled workers who face diminished labour market opportunities (Borjas et al. 2010).",
+          "url": "https://cepr.org/voxeu/columns/crime-effect-refugees",
+          "venue": "CEPR",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "This effect may raise the propensity for crime not only for refugees, but also for native unskilled workers who face diminished labour market opportunities (Borjas et al. 2010).",
+          "supporting_assumptions": [
+            "Labor market competition increases incentives for crime",
+            "Refugees have lower average human capital"
+          ],
+          "refuting_assumptions": [
+            "Labor markets absorb new arrivals without increasing crime",
+            "Social policies mitigate these effects"
+          ],
+          "credibility_score": "NA (CEPR platform, academic references cited)"
+        },
+        {
+          "claim": "The study found that total crime per person decreased due to the arrival of refugees, except for smuggling, which increased.",
+          "title": "THE EFFECT OF 3.6 MILLION REFUGEES ON CRIME",
+          "authors": "Murat Kirdar, Derya Kocabas, Meltem Dayioglu",
+          "section": "Abstract",
+          "paragraph": "The study found that total crime per person decreased due to the arrival of refugees, except for smuggling, which increased.",
+          "url": "https://eaf.ku.edu.tr/wp-content/uploads/2021/08/erf_wp_2113.pdf",
+          "venue": "Economic Research Forum Working Paper",
+          "year": "2021",
+          "contribution": "completely refutes",
+          "relevant_sentence": "The study found that total crime per person decreased due to the arrival of refugees, except for smuggling, which increased.",
+          "supporting_assumptions": [
+            "Crime statistics are robust and comprehensive",
+            "Refugee arrivals are the main change in the studied areas"
+          ],
+          "refuting_assumptions": [
+            "Other confounding factors explain the decline in crime rates",
+            "Data limitations affect conclusions"
+          ],
+          "credibility_score": "Working paper, authors from reputable economic institutions"
+        },
+        {
+          "claim": "Data shows that immigrants, often younger, male, and less educated compared to natives, are disproportionately represented among offenders in numerous host countries.",
+          "title": "Immigration and Crime: An International Perspective",
+          "authors": "Timothy J. Hatton, Simone Bertoli, Giovanni Facchini",
+          "section": "Abstract",
+          "paragraph": "Data shows that immigrants, often younger, male, and less educated compared to natives, are disproportionately represented among offenders in numerous host countries.",
+          "url": "https://www.aeaweb.org/articles?id=10.1257%2Fjep.38.1.181",
+          "venue": "Journal of Economic Perspectives",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Data shows that immigrants, often younger, male, and less educated compared to natives, are disproportionately represented among offenders in numerous host countries.",
+          "supporting_assumptions": [
+            "Demographic structure differences account for representation",
+            "Offender data is accurate and reliable"
+          ],
+          "refuting_assumptions": [
+            "Difference disappears when controlling for socioeconomic factors",
+            "Biases in law enforcement or reporting"
+          ],
+          "credibility_score": "Journal of Economic Perspectives, high impact, peer-reviewed"
+        },
+        {
+          "claim": "While immigrants are overrepresented in prison populations in many Western countries, with notable exceptions such as the United States, most studies fail to show a causal effect of immigration on overall crime rates.",
+          "title": "Immigration and crime - Wikipedia",
+          "authors": "Wikipedia contributors",
+          "section": "Factors",
+          "paragraph": "While immigrants are overrepresented in prison populations in many Western countries, with notable exceptions such as the United States, most studies fail to show a causal effect of immigration on overall crime rates.",
+          "url": "https://en.wikipedia.org/wiki/Immigration_and_crime",
+          "venue": "Wikipedia",
+          "year": "2022",
+          "contribution": "completely refutes",
+          "relevant_sentence": "While immigrants are overrepresented in prison populations in many Western countries, with notable exceptions such as the United States, most studies fail to show a causal effect of immigration on overall crime rates.",
+          "supporting_assumptions": [
+            "Study methods accurately isolate causal effects",
+            "Overrepresentation reflects non-causal factors"
+          ],
+          "refuting_assumptions": [
+            "Causality is misclassified due to methodological limitations",
+            "Studies overlook important variables"
+          ],
+          "credibility_score": "Wikipedia page, references multiple studies"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Economic growth always improves happiness.",
+    "num_articles": 5,
+    "output": {
+      "summary": "As we can see, countries that experience economic growth also tend to experience happiness growth across waves in the World Values Survey<a>https://ourworldindata.org/happiness-and-life-satisfaction</a>. The general conclusion of this section, based on evidence for developing, transition, and developed countries, is that in the short term, happiness and economic growth are positively related<a>https://ftp.iza.org/dp7187.pdf</a>. We can see that GDP per capita goes up sharply over time whereas the subjective wellbeing scores seem to go nowhere in particular<a>https://www.happierlivesinstitute.org/report/economic-growth/</a>. Research has shown that getting promotion or a raise can give people an emotional boost for a short period of time, but even winning the lottery doesn’t seem to make a permanent change in people’s overall satisfaction with life<a>https://www.psychologicalscience.org/news/minds-business/economic-growth-cant-buy-happiness.html</a>. Some countries, in some periods, experience economic growth without increasing happiness<a>https://ourworldindata.org/happiness-and-life-satisfaction</a>.",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that economic growth always improves happiness is only partially true: Short-term and cross-sectional correlations between economic growth and happiness are found, but long-term and country-level evidence shows significant exceptions and the relationship is not consistent or guaranteed. Several sources indicate that increases in economic prosperity do not always translate to sustained or universal improvements in happiness.",
+      "subclaims": [
+        {
+          "claim": "As we can see, countries that experience economic growth also tend to experience happiness growth across waves in the World Values Survey.",
+          "title": "Happiness and Life Satisfaction - Our World in Data",
+          "authors": "Max Roser, Esteban Ortiz-Ospina",
+          "section": "Economic growth and happiness",
+          "paragraph": "As we can see, countries that experience economic growth also tend to experience happiness growth across waves in the World Values Survey. This is a correlation that holds after controlling for other factors that also change over time (in this chart from Stevenson and Wolfers (2008), you can see how changes in GDP per capita compare to changes in life satisfaction after accounting for changes in demographic composition and other variables).",
+          "url": "https://ourworldindata.org/happiness-and-life-satisfaction",
+          "venue": "Our World in Data",
+          "year": "2017",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "countries that experience economic growth also tend to experience happiness growth across waves in the World Values Survey.",
+          "supporting_assumptions": [
+            "Causal relationship between GDP growth and happiness",
+            "Survey accurately measures happiness"
+          ],
+          "refuting_assumptions": [
+            "Other factors may drive both GDP and happiness",
+            "Correlation is not causation"
+          ],
+          "credibility_score": "High—cited in academic and policy discussions"
+        },
+        {
+          "claim": "The general conclusion of this section, based on evidence for developing, transition, and developed countries, is that in the short term, happiness and economic growth are positively related.",
+          "title": "Happiness and Economic Growth: The Evidence",
+          "authors": "Richard A. Easterlin",
+          "section": "Short term time series relationship",
+          "paragraph": "The general conclusion of this section, based on evidence for developing, transition, and developed countries, is that in the short term, happiness and economic growth are positively related. Economic contractions and recoveries induce corresponding movements in happiness.",
+          "url": "https://ftp.iza.org/dp7187.pdf",
+          "venue": "IZA Discussion Papers",
+          "year": "2013",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "in the short term, happiness and economic growth are positively related.",
+          "supporting_assumptions": [
+            "Short-term economic changes affect subjective well-being",
+            "Global pattern holds across country types"
+          ],
+          "refuting_assumptions": [
+            "Short-term spikes don't reflect overall happiness",
+            "Other variables may confound results"
+          ],
+          "credibility_score": "High—Richard Easterlin is highly cited in happiness economics"
+        },
+        {
+          "claim": "We can see that GDP per capita goes up sharply over time whereas the subjective wellbeing scores seem to go nowhere in particular.",
+          "title": "Will faster economic growth make us happier? The relevance of the Easterlin Paradox to Progress Studies",
+          "authors": "Michael Plant, et al.",
+          "section": "Evidence for the Paradox",
+          "paragraph": "Below are a few different bits of evidence from a few rich countries — different data sets where the white dots represent the average subjective wellbeing (using slightly different measures) and the red line is GDP per capita. The figure is from the excellent book *Origins of Happiness* (Clark et al. 2019). We can see that GDP per capita goes up sharply over time whereas the subjective wellbeing scores seem to go nowhere in particular.",
+          "url": "https://www.happierlivesinstitute.org/report/economic-growth/",
+          "venue": "Happier Lives Institute",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "GDP per capita goes up sharply over time whereas the subjective wellbeing scores seem to go nowhere in particular.",
+          "supporting_assumptions": [
+            "GDP per capita meaningfully rises",
+            "Wellbeing is accurately measured"
+          ],
+          "refuting_assumptions": [
+            "Subtle changes in wellbeing not captured",
+            "Measurement scales not sensitive enough"
+          ],
+          "credibility_score": "Medium—reputable institute, recent publication"
+        },
+        {
+          "claim": "Research has shown that getting promotion or a raise can give people an emotional boost for a short period of time, but even winning the lottery doesn’t seem to make a permanent change in people’s overall satisfaction with life.",
+          "title": "Economic Growth Can't Buy Happiness",
+          "authors": "Staff writers, Association for Psychological Science",
+          "section": "Main text",
+          "paragraph": "It’s often assumed that economic gains will lead to a corresponding boost in happiness, but science suggests that the relationship between economics and happiness is actually much more complicated. Research has shown that getting promotion or a raise can give people an emotional boost for a short period of time, but even winning the lottery doesn’t seem to make a permanent change in people’s overall satisfaction with life.",
+          "url": "https://www.psychologicalscience.org/news/minds-business/economic-growth-cant-buy-happiness.html",
+          "venue": "Psychological Science",
+          "year": "2015",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "even winning the lottery doesn’t seem to make a permanent change in people’s overall satisfaction with life.",
+          "supporting_assumptions": [
+            "Happiness adaptation to income changes",
+            "Short-lived effect of positive events"
+          ],
+          "refuting_assumptions": [
+            "Lottery winners may vary",
+            "Individual adaptation not universal"
+          ],
+          "credibility_score": "High—Leading psychological science news platform"
+        },
+        {
+          "claim": "Some countries, in some periods, experience economic growth without increasing happiness.",
+          "title": "Happiness and Life Satisfaction - Our World in Data",
+          "authors": "Max Roser, Esteban Ortiz-Ospina",
+          "section": "Economic growth and happiness",
+          "paragraph": "Some countries, in some periods, experience economic growth without increasing happiness. The experience of the US in recent decades is a case in point. These instances may seem paradoxical given the evidence—we explore this question in the following section.",
+          "url": "https://ourworldindata.org/happiness-and-life-satisfaction",
+          "venue": "Our World in Data",
+          "year": "2017",
+          "contribution": "completely refutes",
+          "relevant_sentence": "Some countries, in some periods, experience economic growth without increasing happiness.",
+          "supporting_assumptions": [
+            "Well-documented country data",
+            "Other social factors at play"
+          ],
+          "refuting_assumptions": [
+            "Time lag in happiness response",
+            "Unique country-specific factors"
+          ],
+          "credibility_score": "High—widely cited data platform"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Eating local food always reduces your carbon footprint.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Emphasizing local food production over imported substitutes can lead to significant cost and carbon savings, according to data from the Inuvialuit Settlement Region in the Canadian Arctic.<a href=\"https://www.mpg.de/22302594/local-food-production-saves-costs-and-carbon\">[1]</a> A new study examining a range of environmental impacts of vegetable production and distribution found local production offers significant benefits overall when compared to the large-scale methods that represent most of current vegetable sales to supermarkets.<a href=\"https://www.cals.iastate.edu/news/2022/research-shows-significant-environmental-benefits-local-food-production\">[2]</a> There are also several cases where eating locally might increase emissions.<a href=\"https://ourworldindata.org/food-choice-vs-eating-local\">[3]</a> The study showed that ending all international food transport would cut food-miles emissions by just 9%, highlighting the relatively greater importance of other factors.<a href=\"https://www.carbonbrief.org/food-miles-have-larger-climate-impact-than-thought-study-suggests/\">[4]</a> For example, only 0.5% of the emission footprint of beef can be attributed to transport therefore, sourcing beef locally will have a minimal impact on the climate compared to cutting beef consumption.<a href=\"https://earth.org/eating-locally-low-emission-diet/\">[5]</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that eating local food always reduces your carbon footprint is only partially true according to the articles. While local food production often reduces emissions and costs in specific contexts, particularly for certain vegetables or in remote regions, there are notable exceptions where local production can have a higher carbon footprint than importing food, especially if local production relies on energy-intensive methods. Studies show that the benefits of eating local are often overshadowed by the type of food and production method, with transportation playing a minor role in overall emissions for most food items. Therefore, eating local food sometimes reduces, but does not always guarantee a reduced carbon footprint.",
+      "subclaims": [
+        {
+          "claim": "Emphasizing local food production over imported substitutes can lead to significant cost and carbon savings, according to data from the Inuvialuit Settlement Region in the Canadian Arctic.",
+          "title": "Local food production saves costs and carbon",
+          "authors": "Elspeth Ready, Max Planck Institute for Evolutionary Anthropology and the Inuvialuit Regional Corporation",
+          "section": "Main text",
+          "paragraph": "Emphasizing local food production over imported substitutes can lead to significant cost and carbon savings, according to data from the Inuvialuit Settlement Region in the Canadian Arctic. The research, conducted by the Max Planck Institute for Evolutionary Anthropology and the Inuvialuit Regional Corporation, shows potential annual savings of more than 3.1 million Canadian dollars and roughly half the carbon emissions when locally harvested food is used instead of imported food.",
+          "url": "https://www.mpg.de/22302594/local-food-production-saves-costs-and-carbon",
+          "venue": "Max Planck Institute",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Local food harvesting also reduces reliance on supply chains that are vulnerable to climate change.",
+          "supporting_assumptions": [
+            "Remote regions face high emissions from supply chain logistics",
+            "Local food systems are resilient and efficient in such contexts"
+          ],
+          "refuting_assumptions": [
+            "Not all local food systems have the same efficiency",
+            "May not apply to all types of food or locations"
+          ],
+          "credibility_score": "High (Max Planck Institute, recent peer-reviewed study)"
+        },
+        {
+          "claim": "A new study examining a range of environmental impacts of vegetable production and distribution found local production offers significant benefits overall when compared to the large-scale methods that represent most of current vegetable sales to supermarkets.",
+          "title": "Research shows significant environmental benefits of local food production",
+          "authors": "Tiffanie Stone, Jan Thompson, Kurt Rosentrater, Ajay Nair",
+          "section": "Main text",
+          "paragraph": "A new study examining a range of environmental impacts of vegetable production and distribution found local production offers significant benefits overall when compared to the large-scale methods that represent most of current vegetable sales to supermarkets.",
+          "url": "https://www.cals.iastate.edu/news/2022/research-shows-significant-environmental-benefits-local-food-production",
+          "venue": "Iowa State University",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Local production offers significant benefits overall when compared to the large-scale methods.",
+          "supporting_assumptions": [
+            "Local vegetable production is less energy- and emission-intensive",
+            "Transportation of vegetables has a larger relative impact than for some other foods"
+          ],
+          "refuting_assumptions": [
+            "Study focused on vegetables, may not generalize to all foods",
+            "Scale and methods of local production vary widely"
+          ],
+          "credibility_score": "Editor’s Choice, peer-reviewed, university research"
+        },
+        {
+          "claim": "There are also several cases where eating locally might increase emissions.",
+          "title": "You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local.",
+          "authors": "Hannah Ritchie, Max Roser",
+          "section": "Main analysis",
+          "paragraph": "There are also several cases where eating locally might increase emissions. In most countries, many foods can only be grown and harvested at certain times of the year. But consumers want them year-round. This gives us three options: import goods from countries where they are in season, use energy-intensive production methods (such as greenhouses) to produce them year-round or use refrigeration and other preservation methods to store them for several months. There are many examples of studies that show that importing often has a lower footprint.",
+          "url": "https://ourworldindata.org/food-choice-vs-eating-local",
+          "venue": "Our World in Data",
+          "year": "2020",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "There are also several cases where eating locally might increase emissions.",
+          "supporting_assumptions": [
+            "Local production may require energy-intensive methods",
+            "Imported foods can have lower emissions in some conditions"
+          ],
+          "refuting_assumptions": [
+            "Assume food miles are always the dominant emissions source",
+            "Disregard seasonality and production methods"
+          ],
+          "credibility_score": "High (Our World in Data, data-driven analysis, heavily cited)"
+        },
+        {
+          "claim": "The study showed that ending all international food transport would cut food-miles emissions by just 9%, highlighting the relatively greater importance of other factors.",
+          "title": "'Food miles' have larger climate impact than thought, study suggests",
+          "authors": "Carbon Brief staff, lead author Li",
+          "section": "Main findings",
+          "paragraph": "The study showed that ending all international food transport would cut food-miles emissions by just 9%, highlighting the relatively greater importance of other factors. Nevertheless, switching to a local diet can still reduce emissions – especially in richer countries. The authors found that if the entire world were to switch to a purely domestic food supply, food-miles emissions would be reduced by a modest 0.27bn tonnes of CO2 equivalent.",
+          "url": "https://www.carbonbrief.org/food-miles-have-larger-climate-impact-than-thought-study-suggests/",
+          "venue": "Carbon Brief",
+          "year": "2022",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Ending all international food transport would cut food-miles emissions by just 9%.",
+          "supporting_assumptions": [
+            "Transport is a minor part of overall food emissions",
+            "Other factors (production method, food type) play a greater role"
+          ],
+          "refuting_assumptions": [
+            "Transport impacts are uniform for all foods",
+            "Local food systems always use lower-emission methods"
+          ],
+          "credibility_score": "Moderate/high (widely cited climate news analysis, based on peer-reviewed study)"
+        },
+        {
+          "claim": "For example, only 0.5% of the emission footprint of beef can be attributed to transport therefore, sourcing beef locally will have a minimal impact on the climate compared to cutting beef consumption.",
+          "title": "How Important Is Eating Locally When Aiming for a Low Emission Diet?",
+          "authors": "Earth.Org editorial staff",
+          "section": "Main text",
+          "paragraph": "For example, only 0.5% of the emission footprint of beef can be attributed to transport therefore, sourcing beef locally will have a minimal impact on the climate compared to cutting beef consumption. There are many cases in which buying locally produced food is actually considered a less sustainable option. A clear example of this can be seen from a Swedish study which showed that buying tomatoes produced locally in Swedish greenhouses resulted in a much higher carbon footprint than buying imported tomatoes grown in fields in Spain.",
+          "url": "https://earth.org/eating-locally-low-emission-diet/",
+          "venue": "Earth.Org",
+          "year": "2022",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Only 0.5% of the emission footprint of beef can be attributed to transport therefore, sourcing beef locally will have a minimal impact.",
+          "supporting_assumptions": [
+            "Most emissions from beef production come from farming itself, not transport",
+            "Food miles are generally less important than production methods for high-impact foods"
+          ],
+          "refuting_assumptions": [
+            "Transport emissions are significant for all foods",
+            "All foods have similar distribution of emissions"
+          ],
+          "credibility_score": "Moderate (site covers scientific topics, referencing published studies)"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Genetically modified crops are necessary for climate resilience.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Genetic engineering is already being used to help organisms adapt to rapidly changing climates, and researchers are developing strains of rice, maize and wheat capable of withstanding longer droughts and wetter monsoon seasons, as well as disease-resistant crops to combat new pests and fungi<a href=\"https://www.weforum.org/stories/2022/07/engineered-crops-can-fight-climate-change/\">.</a> Our research shows that modifying key crops in the US with just one new genetically engineered trait could increase yields by 15%, thereby decreasing global food system emissions from land conversion by 5%, or 214 million tons CO2 equivalents per year<a href=\"https://thebreakthrough.org/issues/food-agriculture-environment/ge-crops-are-key-to-lower-carbon-ag\">.</a> Dr Emma Kovak is a senior food and agriculture analyst at the Breakthrough Institute, who found that GM crops can help with both climate adaptation and mitigation, including making crops more resistant to extreme weather and reducing emissions through increased yields and reduced fuel use<a href=\"https://www.carbonbrief.org/qa-the-evolving-debate-about-using-genetically-modified-crops-in-a-warming-world/\">.</a> GM crops have also helped reduce carbon emissions, as the adoption of herbicide-tolerant crops has led to a significant decrease in on-farm fuel use and helped farmers shift to reduced or no-tillage systems, which collectively lowered CO2 emissions by 39 billion kg between 1996 and 2020<a href=\"https://www.isaaa.org/blog/entry/default.asp?BlogDate=12%2F4%2F2024\">.</a> While many experts argue that genetically modified organisms have an important role to play in a climate resilient biosphere, some caution that they are not the only answer, emphasizing the need for integrated approaches that combine genetic modification with other sustainable agricultural practices<a href=\"https://climatefactchecks.org/are-genetically-modified-organisms-the-answer-to-a-climate-resilient-biosphere/\">.</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that genetically modified crops are necessary for climate resilience is partially true: there is strong evidence that GM crops can significantly enhance climate resilience and reduce emissions by increasing yields, improving resistance to extreme weather, and reducing the need for land and fossil fuel use. However, multiple sources note that while GM crops are a powerful tool, they are not strictly 'necessary' nor the only solution for climate resilience, as other sustainable agricultural practices and holistic approaches are also required.",
+      "subclaims": [
+        {
+          "claim": "Genetic engineering is already being used to help organisms adapt to rapidly changing climates, and researchers are developing strains of rice, maize and wheat capable of withstanding longer droughts and wetter monsoon seasons, as well as disease-resistant crops to combat new pests and fungi.",
+          "title": "Explained: how engineered crops can fight climate change",
+          "authors": "World Economic Forum staff",
+          "section": "Main article body",
+          "paragraph": "Genetic engineering is already being used to help organisms adapt to rapidly changing climates. Researchers are developing strains of rice, maize and wheat capable of withstanding longer droughts and wetter monsoon seasons. Extreme temperatures are exposing crops to new fungi and pests, which is motivating scientists to genetically engineer disease-resistant cassava, potatoes and cacao.",
+          "url": "https://www.weforum.org/stories/2022/07/engineered-crops-can-fight-climate-change/",
+          "venue": "World Economic Forum",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Genetic engineering is already being used to help organisms adapt to rapidly changing climates.",
+          "supporting_assumptions": [
+            "Genetic engineering can successfully transfer traits for climate resilience.",
+            "Crops engineered for resilience will be widely adopted."
+          ],
+          "refuting_assumptions": [
+            "Other adaptation strategies could be equally or more effective.",
+            "Unintended consequences of genetic modification could reduce effectiveness."
+          ],
+          "credibility_score": "High (global policy forum, widely cited scientific experts)"
+        },
+        {
+          "claim": "Our research shows that modifying key crops in the US with just one new genetically engineered trait could increase yields by 15%, thereby decreasing global food system emissions from land conversion by 5%, or 214 million tons CO2 equivalents per year.",
+          "title": "Genetically Engineered Crops Are Key to Lower-Carbon Agriculture",
+          "authors": "The Breakthrough Institute",
+          "section": "Main article body; Methods",
+          "paragraph": "Our research shows that modifying key crops in the US with just one new genetically engineered trait could increase yields by 15%, thereby decreasing global food system emissions from land conversion by 5%, or 214 million tons CO2 equivalents per year. With the addition of two more genetically engineered (GE) crop traits, that yield increase could quadruple to 60%, causing dramatic emissions reductions on a global scale.",
+          "url": "https://thebreakthrough.org/issues/food-agriculture-environment/ge-crops-are-key-to-lower-carbon-ag",
+          "venue": "The Breakthrough Institute",
+          "year": "2021",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Our research shows that modifying key crops in the US with just one new genetically engineered trait could increase yields by 15%, thereby decreasing global food system emissions from land conversion by 5%, or 214 million tons CO2 equivalents per year.",
+          "supporting_assumptions": [
+            "Yield increases lead directly to less land conversion.",
+            "Emissions reductions from land-use change are significant in global balances."
+          ],
+          "refuting_assumptions": [
+            "Other factors could offset emissions reductions.",
+            "Yield gains might not be universally replicable."
+          ],
+          "credibility_score": "Cited policy think tank; includes references to peer-reviewed research"
+        },
+        {
+          "claim": "Dr Emma Kovak is a senior food and agriculture analyst at the Breakthrough Institute, who found that GM crops can help with both climate adaptation and mitigation, including making crops more resistant to extreme weather and reducing emissions through increased yields and reduced fuel use.",
+          "title": "Q&A: The evolving debate about using genetically modified crops in a warming world",
+          "authors": "Dr. Emma Kovak; Carbon Brief staff",
+          "section": "Benefits for climate mitigation and adaptation",
+          "paragraph": "There have been a lot of claims – and counter-claims – about the climate benefits of GMOs, both in terms of making crops more resistant to extreme weather and in helping plants to absorb more carbon from the atmosphere.\n.... Combining figures from reduced fuel use and increased soil carbon storage, the researchers said the emissions reduction would be equivalent to taking almost 17m cars off the road for one year.",
+          "url": "https://www.carbonbrief.org/qa-the-evolving-debate-about-using-genetically-modified-crops-in-a-warming-world/",
+          "venue": "Carbon Brief",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "There have been a lot of claims – and counter-claims – about the climate benefits of GMOs, both in terms of making crops more resistant to extreme weather and in helping plants to absorb more carbon from the atmosphere.",
+          "supporting_assumptions": [
+            "GM traits for resilience are widely adopted.",
+            "Emissions savings are significant at scale."
+          ],
+          "refuting_assumptions": [
+            "Other technologies could provide similar benefits.",
+            "Societal or regulatory barriers impede adoption."
+          ],
+          "credibility_score": "Peer-reviewed sources cited, major science journalism outlet"
+        },
+        {
+          "claim": "GM crops have also helped reduce carbon emissions, as the adoption of herbicide-tolerant crops has led to a significant decrease in on-farm fuel use and helped farmers shift to reduced or no-tillage systems, which collectively lowered CO2 emissions by 39 billion kg between 1996 and 2020.",
+          "title": "What is the Impact of GM Crops on the Environment? | Science Speaks",
+          "authors": "Graham Brookes; ISAAA",
+          "section": "Main article body",
+          "paragraph": "GM crops have also helped reduce carbon emissions. The adoption of herbicide-tolerant crops has led to a significant decrease in on-farm fuel use and helped farmers move from plow-based systems to reduced or no-tillage systems. Thus, herbicide-tolerant crops significantly contributed to decreased fuel use, thus decreasing CO2 emissions by 39 billion kg, which is equal to removing 25.9 million cars off the road for one year.",
+          "url": "https://www.isaaa.org/blog/entry/default.asp?BlogDate=12%2F4%2F2024",
+          "venue": "ISAAA",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "GM crops have also helped reduce carbon emissions.",
+          "supporting_assumptions": [
+            "Adoption of GM crops continues to expand globally.",
+            "Emissions reductions are attributable to these farming changes."
+          ],
+          "refuting_assumptions": [
+            "Non-GM approaches could achieve similar reductions.",
+            "Other agricultural emissions outweigh these benefits."
+          ],
+          "credibility_score": "ISAAA reports, agricultural impact studies; cited in policy"
+        },
+        {
+          "claim": "While many experts argue that genetically modified organisms have an important role to play in a climate resilient biosphere, some caution that they are not the only answer, emphasizing the need for integrated approaches that combine genetic modification with other sustainable agricultural practices.",
+          "title": "Are genetically modified organisms the answer to a climate resilient biosphere?",
+          "authors": "Climate Fact Checks staff",
+          "section": "Main discussion",
+          "paragraph": "While many experts argue that genetically modified organisms have an important role to play in a climate resilient biosphere, some caution that they are not the only answer, emphasizing the need for integrated approaches that combine genetic modification with other sustainable agricultural practices.",
+          "url": "https://climatefactchecks.org/are-genetically-modified-organisms-the-answer-to-a-climate-resilient-biosphere/",
+          "venue": "Climate Fact Checks",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "While many experts argue that genetically modified organisms have an important role to play in a climate resilient biosphere, some caution that they are not the only answer, emphasizing the need for integrated approaches that combine genetic modification with other sustainable agricultural practices.",
+          "supporting_assumptions": [
+            "Integrated strategies are more effective overall.",
+            "GMOs are one tool among many for climate resilience."
+          ],
+          "refuting_assumptions": [
+            "Other approaches are less effective than GMOs alone.",
+            "Widespread adoption of GMOs can be achieved without trade-offs."
+          ],
+          "credibility_score": "Emerging science news outlet; includes expert interviews"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Biofuels are worse for climate than fossil fuels.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Biofuels are being promoted as a low-carbon alternative to fossil fuels as they could help to reduce greenhouse gas (GHG) emissions and the related climate change impact from transport<a>https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0351</a>. However, first-generation biofuels such as ethanol or biodiesel also have large land footprints, which drive climate-harming emissions when land is converted from natural landscapes, such as forests or grasslands, to specifically grow crops for biofuels<a>https://www.wri.org/insights/increased-biofuel-production-impacts-climate-change-farmers</a>. When burned, pure biofuels generally produce fewer emissions of particulates, sulfur dioxide, and air toxics than their fossil-fuel derived counterparts<a>https://www.eia.gov/energyexplained/biofuels/biofuels-and-the-environment.php</a>. Converting biomass feedstocks to biofuels is an environmentally friendly process, and using biofuels for transportation helps reduce atmospheric CO2 compared to gasoline<a>https://docs.nrel.gov/docs/fy99osti/24052.pdf</a>. However, several studies show that reductions in GHG emissions from biofuels are achieved at the expense of other impacts, such as acidification, eutrophication, water footprint and biodiversity loss<a>https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0351</a>.",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that biofuels are worse for climate than fossil fuels is only partially true because while some forms of biofuels (especially when land-use change is involved) may cause significant emissions and environmental harm, many others (particularly second-generation biofuels without land-use change) generally produce lower net greenhouse gas emissions than fossil fuels. The overall impact is highly dependent on feedstock choice, land-use changes, and production methods. Biofuels can have environmental trade-offs that need to be considered in evaluating their overall climate impact.",
+      "subclaims": [
+        {
+          "claim": "Biofuels are being promoted as a low-carbon alternative to fossil fuels as they could help to reduce greenhouse gas (GHG) emissions and the related climate change impact from transport.",
+          "title": "Environmental sustainability of biofuels: a review",
+          "authors": "A. Azapagic",
+          "section": "Abstract",
+          "paragraph": "Biofuels are being promoted as a low-carbon alternative to fossil fuels as they could help to reduce greenhouse gas (GHG) emissions and the related climate change impact from transport.",
+          "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0351",
+          "venue": "Proceedings of the Royal Society A",
+          "year": "2020",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Biofuels are being promoted as a low-carbon alternative to fossil fuels as they could help to reduce greenhouse gas (GHG) emissions and the related climate change impact from transport.",
+          "supporting_assumptions": [
+            "GHG emissions from biofuels are lower on average than from fossil fuels",
+            "No significant land-use change occurs during production"
+          ],
+          "refuting_assumptions": [
+            "Lifecycle assessment ignores land-use change",
+            "Feedstocks have high indirect emissions"
+          ],
+          "credibility_score": "Citations: 415, Impact factor: 3.6"
+        },
+        {
+          "claim": "However, first-generation biofuels such as ethanol or biodiesel also have large land footprints, which drive climate-harming emissions when land is converted from natural landscapes, such as forests or grasslands, to specifically grow crops for biofuels.",
+          "title": "Increased Biofuel Production in the US Midwest May Harm Farmers and the Climate",
+          "authors": "Kristin Igusky, Timothy Searchinger",
+          "section": "The Potential Climate Impact of Biofuels",
+          "paragraph": "However, first-generation biofuels such as ethanol or biodiesel also have large land footprints, which drive climate-harming emissions when land is converted from natural landscapes, such as forests or grasslands, to specifically grow crops for biofuels.",
+          "url": "https://www.wri.org/insights/increased-biofuel-production-impacts-climate-change-farmers",
+          "venue": "World Resources Institute",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "However, first-generation biofuels such as ethanol or biodiesel also have large land footprints, which drive climate-harming emissions when land is converted from natural landscapes, such as forests or grasslands, to specifically grow crops for biofuels.",
+          "supporting_assumptions": [
+            "Land conversion associated with biofuel feedstock production",
+            "Large-scale monoculture of crops such as corn and soy"
+          ],
+          "refuting_assumptions": [
+            "Use of waste residues rather than energy crops",
+            "No land conversion required"
+          ],
+          "credibility_score": "WRI website, WRI is a respected policy institute"
+        },
+        {
+          "claim": "When burned, pure biofuels generally produce fewer emissions of particulates, sulfur dioxide, and air toxics than their fossil-fuel derived counterparts.",
+          "title": "Biofuels and the environment - U.S. Energy Information Administration",
+          "authors": "U.S. Energy Information Administration",
+          "section": "Biofuels may have fewer effects on the environment than fossil fuels",
+          "paragraph": "When burned, pure biofuels generally produce fewer emissions of particulates, sulfur dioxide, and air toxics than their fossil-fuel derived counterparts. Biofuel-petroleum blends also generally result in lower emissions relative to fuels that do not contain biofuels.",
+          "url": "https://www.eia.gov/energyexplained/biofuels/biofuels-and-the-environment.php",
+          "venue": "U.S. Energy Information Administration",
+          "year": "2022",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "When burned, pure biofuels generally produce fewer emissions of particulates, sulfur dioxide, and air toxics than their fossil-fuel derived counterparts.",
+          "supporting_assumptions": [
+            "Emission data is normalized per unit of energy"
+          ],
+          "refuting_assumptions": [
+            "Indirect land-use impacts not considered"
+          ],
+          "credibility_score": "U.S. EIA, highly reputable government source"
+        },
+        {
+          "claim": "Converting biomass feedstocks to biofuels is an environmentally friendly process, and using biofuels for transportation helps reduce atmospheric CO2 compared to gasoline.",
+          "title": "Biofuels: A Solution for Climate Change",
+          "authors": "Gary Tonjes, Anthony Eggert, Bob Wallace",
+          "section": "Biofuels reduce greenhouse gas emissions",
+          "paragraph": "Converting biomass feedstocks to biofuels is an environmentally friendly process. So is using biofuels for transportation. When we use bioethanol instead of gasoline, we help reduce atmospheric CO2 in three ways: (1) we avoid the emissions associated with gasoline; (2) we allow the CO2 content of the fossil fuels to remain in storage; and (3) we provide a mechanism for CO2 absorption by growing new biomass for fuels.",
+          "url": "https://docs.nrel.gov/docs/fy99osti/24052.pdf",
+          "venue": "NREL",
+          "year": "1998",
+          "contribution": "completely refutes",
+          "relevant_sentence": "Converting biomass feedstocks to biofuels is an environmentally friendly process. So is using biofuels for transportation.",
+          "supporting_assumptions": [
+            "Lifecycle carbon savings are realized",
+            "Feedstock production is sustainable"
+          ],
+          "refuting_assumptions": [
+            "Land-use change emissions are underestimated"
+          ],
+          "credibility_score": "NREL, reputable DOE national lab"
+        },
+        {
+          "claim": "However, several studies show that reductions in GHG emissions from biofuels are achieved at the expense of other impacts, such as acidification, eutrophication, water footprint and biodiversity loss.",
+          "title": "Environmental sustainability of biofuels: a review",
+          "authors": "A. Azapagic",
+          "section": "Abstract",
+          "paragraph": "As also discussed in the paper, several studies show that reductions in GHG emissions from biofuels are achieved at the expense of other impacts, such as acidification, eutrophication, water footprint and biodiversity loss.",
+          "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0351",
+          "venue": "Proceedings of the Royal Society A",
+          "year": "2020",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Several studies show that reductions in GHG emissions from biofuels are achieved at the expense of other impacts, such as acidification, eutrophication, water footprint and biodiversity loss.",
+          "supporting_assumptions": [
+            "Biofuel production requires significant water and fertilizer inputs",
+            "Feedstock cultivation impacts ecosystems"
+          ],
+          "refuting_assumptions": [
+            "Impact mitigation practices are used",
+            "Feedstocks are grown on marginal land not suitable for food"
+          ],
+          "credibility_score": "Citations: 415, Impact factor: 3.6"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Artificial sweeteners are healthier than sugar.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Artificial sweeteners are compounds that are designed to taste like sugar but with very few calories, and are commonly used by people living with diabetes because they don’t affect your blood sugar level in the same way as sugar.<a>https://health.clevelandclinic.org/whats-worse-sugar-or-artificial-sweetener</a> The American Heart Association (AHA) and American Diabetes Association (ADA) have given a cautious nod to the use of artificial sweeteners in place of sugar to combat obesity, metabolic syndrome, and diabetes, all risk factors for heart disease.<a>https://www.health.harvard.edu/blog/artificial-sweeteners-sugar-free-but-at-what-cost-201207165030</a> Based on the growing body of literature showing that artificial sweeteners could cause DNA damage and increase the risk of cancer, I would recommend consuming as little as possible.<a>https://healthmatters.nyp.org/is-sugar-better-for-you-than-artificial-sweeteners/</a> The long-term effects of artificial sweeteners on the body are still being studied, but evidence suggests they're not always healthy alternatives to sugar.<a>https://www.missionhealth.org/healthy-living/blog/the-not-so-sweet-effects-of-artificial-sweeteners-on-the-body</a> While artificial sweeteners can help reduce calorie and sugar intake, they may also change eating habits in unhealthy ways and come with possible long-term risks.<a>https://www.health.harvard.edu/blog/artificial-sweeteners-sugar-free-but-at-what-cost-201207165030</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that artificial sweeteners are healthier than sugar is only partially true. While they can be useful for reducing calorie consumption and managing conditions like diabetes, growing evidence highlights potential health risks such as possible links to cancer, DNA damage, and negative changes in eating habits. Additionally, the long-term health effects remain under debate, and several authoritative sources advocate using both sugar and artificial sweeteners as sparingly as possible.",
+      "subclaims": [
+        {
+          "claim": "Artificial sweeteners are compounds that are designed to taste like sugar but with very few calories, and are commonly used by people living with diabetes because they don’t affect your blood sugar level in the same way as sugar.",
+          "title": "Are Artificial Sweeteners Bad for You?",
+          "authors": "Cleveland Clinic Staff, Dr. Melissa Young",
+          "section": "Main Body",
+          "paragraph": "Artificial sweeteners are compounds that are designed to taste like sugar but with very few calories. Most have fewer than 3 calories per teaspoon. Compare that to one teaspoon of sugar, which has 16 calories. Artificial sweeteners are commonly used by people living with diabetes because they don’t affect your blood sugar level in the same way as sugar.",
+          "url": "https://health.clevelandclinic.org/whats-worse-sugar-or-artificial-sweetener",
+          "venue": "Cleveland Clinic",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Artificial sweeteners are compounds that are designed to taste like sugar but with very few calories. Artificial sweeteners are commonly used by people living with diabetes because they don’t affect your blood sugar level in the same way as sugar.",
+          "supporting_assumptions": [
+            "Artificial sweeteners have lower calories than sugar.",
+            "Artificial sweeteners are used as sugar substitutes in diabetic diets."
+          ],
+          "refuting_assumptions": [
+            "Artificial sweeteners have hidden metabolic effects.",
+            "Artificial sweeteners can spike blood sugar in rare cases."
+          ],
+          "credibility_score": "Reputable health institution, high web traffic"
+        },
+        {
+          "claim": "The American Heart Association (AHA) and American Diabetes Association (ADA) have given a cautious nod to the use of artificial sweeteners in place of sugar to combat obesity, metabolic syndrome, and diabetes, all risk factors for heart disease.",
+          "title": "Artificial sweeteners: sugar-free, but at what cost?",
+          "authors": "Harvard Health Publishing",
+          "section": "Main Body",
+          "paragraph": "The American Heart Association (AHA) and American Diabetes Association (ADA) have given a cautious nod to the use of artificial sweeteners in place of sugar to combat obesity, metabolic syndrome, and diabetes, all risk factors for heart disease.",
+          "url": "https://www.health.harvard.edu/blog/artificial-sweeteners-sugar-free-but-at-what-cost-201207165030",
+          "venue": "Harvard Health Blog",
+          "year": "2020",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "The American Heart Association (AHA) and American Diabetes Association (ADA) have given a cautious nod to the use of artificial sweeteners in place of sugar to combat obesity, metabolic syndrome, and diabetes, all risk factors for heart disease.",
+          "supporting_assumptions": [
+            "Consensus of major health organizations.",
+            "Artificial sweeteners can help manage calorie intake."
+          ],
+          "refuting_assumptions": [
+            "Long-term negative health effects outweigh short-term benefits."
+          ],
+          "credibility_score": "Harvard Health blog, high institutional authority"
+        },
+        {
+          "claim": "Based on the growing body of literature showing that artificial sweeteners could cause DNA damage and increase the risk of cancer, I would recommend consuming as little as possible.",
+          "title": "Is Sugar Better For You Than Artificial Sweeteners?",
+          "authors": "Health Matters, NY Presbyterian",
+          "section": "What’s an appropriate amount for artificial sweeteners? And what are the health concerns if you consume too much?",
+          "paragraph": "Based on the growing body of literature showing that artificial sweeteners could cause DNA damage and increase the risk of cancer, I would recommend consuming as little as possible. That said, so many people in the U.S. are being treated for chronic conditions, like diabetes and heart disease, that are much more likely to shorten their lifespan than an artificial sweetener would.",
+          "url": "https://healthmatters.nyp.org/is-sugar-better-for-you-than-artificial-sweeteners/",
+          "venue": "NY Presbyterian Health Matters",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Based on the growing body of literature showing that artificial sweeteners could cause DNA damage and increase the risk of cancer, I would recommend consuming as little as possible.",
+          "supporting_assumptions": [
+            "Emerging studies link sweeteners to cancer and DNA risks."
+          ],
+          "refuting_assumptions": [
+            "Causality is not firmly established; risk is theoretical."
+          ],
+          "credibility_score": "Academic health institution, high relevance"
+        },
+        {
+          "claim": "The long-term effects of artificial sweeteners on the body are still being studied, but evidence suggests they're not always healthy alternatives to sugar.",
+          "title": "The not-so-sweet effects of artificial sweeteners on the body",
+          "authors": "Mission Health Staff",
+          "section": "Introduction",
+          "paragraph": "The long-term effects of artificial sweeteners on the body are still being studied, but evidence suggests they're not always healthy alternatives to sugar.",
+          "url": "https://www.missionhealth.org/healthy-living/blog/the-not-so-sweet-effects-of-artificial-sweeteners-on-the-body",
+          "venue": "Mission Health",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "The long-term effects of artificial sweeteners on the body are still being studied, but evidence suggests they're not always healthy alternatives to sugar.",
+          "supporting_assumptions": [
+            "Long-term randomized controlled trials are lacking."
+          ],
+          "refuting_assumptions": [
+            "Short-term benefits might outweigh unknown risks."
+          ],
+          "credibility_score": "Regional health system, moderate authority"
+        },
+        {
+          "claim": "While artificial sweeteners can help reduce calorie and sugar intake, they may also change eating habits in unhealthy ways and come with possible long-term risks.",
+          "title": "Artificial sweeteners: sugar-free, but at what cost?",
+          "authors": "Harvard Health Publishing",
+          "section": "Main Body",
+          "paragraph": "While they are not magic bullets, smart use of non-nutritive sweeteners could help you reduce added sugars in your diet, therefore lowering the number of calories you eat. Reducing calories could help you attain and maintain a healthy body weight, and thereby lower your risk of heart disease and diabetes... It's also possible that these products change the way we taste food. 'Non-nutritive sweeteners are far more potent than table sugar and high-fructose corn syrup. A miniscule amount produces a sweet taste comparable to that of sugar, without comparable calories. Overstimulation of sugar receptors from frequent use of these hyper-intense sweeteners may limit tolerance for more complex tastes,' explains Dr. Ludwig. That means people who routinely use artificial sweeteners may start to find less intensely sweet foods, such as fruit, less appealing and unsweet foods, such as vegetables, downright unpalatable.",
+          "url": "https://www.health.harvard.edu/blog/artificial-sweeteners-sugar-free-but-at-what-cost-201207165030",
+          "venue": "Harvard Health Blog",
+          "year": "2020",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "While artificial sweeteners can help reduce calorie and sugar intake, they may also change eating habits in unhealthy ways and come with possible long-term risks.",
+          "supporting_assumptions": [
+            "Artificial sweeteners disrupt dietary preference and taste receptors."
+          ],
+          "refuting_assumptions": [
+            "Dietary behavior change is minimal or manageable."
+          ],
+          "credibility_score": "Harvard Health blog, high institutional authority"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Intermittent fasting improves metabolic health.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Modified fasting regimens appear to promote weight loss and may improve metabolic health.<a>https://www.annualreviews.org/doi/10.1146/annurev-nutr-071816-064634</a> Most of the available research shows that intermittent fasting can help people lose body weight and lower their levels of fasting glucose, fasting insulin and leptin while reducing insulin resistance, decreasing levels of leptin and increasing levels of adiponectin.<a>https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work</a> Intermittent fasting is more effective than an ad libitum dietary intake, and equally or more effective as continuous energy restriction, for weight management.<a>https://onlinelibrary.wiley.com/doi/10.1111/jhn.13253</a> A recent compilation of the evidence suggests that limiting your eating window might indeed help you shed a few pounds.<a>https://www.health.harvard.edu/blog/should-you-try-intermittent-fasting-for-weight-loss-202207282790</a> One small study suggests that intermittent fasting may reduce the drop in metabolic rate that’s associated with weight loss.<a>https://www.healthline.com/nutrition/intermittent-fasting-metabolism</a>",
+      "accuracy": "Mostly True",
+      "reason_for_accuracy": "Multiple studies and reviews indicate that intermittent fasting can benefit metabolic health, particularly through weight loss, improved insulin sensitivity, and favorable changes in circulating hormones. However, there remains some inconclusive and mixed evidence regarding its direct effects on all aspects of metabolic health, such as glucose and lipid metabolism, and long-term metabolic rate maintenance.",
+      "subclaims": [
+        {
+          "claim": "Modified fasting regimens appear to promote weight loss and may improve metabolic health.",
+          "title": "Metabolic Effects of Intermittent Fasting",
+          "authors": "Patterson RE, Sears DD",
+          "section": "Abstract",
+          "paragraph": "Modified fasting regimens appear to promote weight loss and may improve metabolic health. Several lines of evidence also support the hypothesis that eating patterns that reduce or eliminate nighttime eating and prolong nightly fasting intervals may result in sustained improvements in human health.",
+          "url": "https://www.annualreviews.org/doi/10.1146/annurev-nutr-071816-064634",
+          "venue": "Annual Review of Nutrition",
+          "year": "2017",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Modified fasting regimens appear to promote weight loss and may improve metabolic health.",
+          "supporting_assumptions": [
+            "Weight loss is a key feature of improved metabolic health.",
+            "Findings in human and animal studies are relevant to broader populations."
+          ],
+          "refuting_assumptions": [
+            "Not all individuals respond similarly to fasting regimens.",
+            "Weight loss does not always equate to better metabolic health."
+          ],
+          "credibility_score": "Impact factor: 11.94"
+        },
+        {
+          "claim": "Most of the available research shows that intermittent fasting can help people lose body weight and lower their levels of fasting glucose, fasting insulin and leptin while reducing insulin resistance, decreasing levels of leptin and increasing levels of adiponectin.",
+          "title": "Intermittent Fasting: What is it, and how does it work?",
+          "authors": "Johns Hopkins Medicine staff",
+          "section": "Intermittent Fasting Benefits",
+          "paragraph": "People with type 2 diabetes may benefit: Most of the available research shows that intermittent fasting can help people lose body weight and lower their levels of fasting glucose, fasting insulin and leptin while reducing insulin resistance, decreasing levels of leptin and increasing levels of adiponectin. Certain studies found that some patients practicing intermittent fasting with supervision by their doctors were able to reverse their need for insulin therapy.",
+          "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work",
+          "venue": "Johns Hopkins Medicine",
+          "year": "2022",
+          "contribution": "completely supports",
+          "relevant_sentence": "Most of the available research shows that intermittent fasting can help people lose body weight and lower their levels of fasting glucose, fasting insulin and leptin while reducing insulin resistance, decreasing levels of leptin and increasing levels of adiponectin.",
+          "supporting_assumptions": [
+            "Most research is of sufficient quality.",
+            "Effects observed are clinically significant."
+          ],
+          "refuting_assumptions": [
+            "Findings may not hold for all metabolic markers.",
+            "Long-term effects are not as strong."
+          ],
+          "credibility_score": "Reputation: Top medical institution"
+        },
+        {
+          "claim": "Intermittent fasting is more effective than an ad libitum dietary intake, and equally or more effective as continuous energy restriction, for weight management.",
+          "title": "Metabolic changes with intermittent fasting",
+          "authors": "MG Lange",
+          "section": "Summary",
+          "paragraph": "Intermittent fasting is more effective than an ad libitum dietary intake, and equally or more effective as continuous energy restriction, for weight management. However, there is inconclusive evidence on whether intermittent fasting has a clinically beneficial effect on glucose and lipid metabolism.",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/jhn.13253",
+          "venue": "Journal of Human Nutrition and Dietetics",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Intermittent fasting is more effective than an ad libitum dietary intake, and equally or more effective as continuous energy restriction, for weight management.",
+          "supporting_assumptions": [
+            "Weight management is a core component of metabolic health.",
+            "Comparison to ad libitum and continuous restriction is valid."
+          ],
+          "refuting_assumptions": [
+            "Weight loss does not fully reflect metabolic health.",
+            "Short-term studies may not reflect long-term health outcomes."
+          ],
+          "credibility_score": "Citations: 17"
+        },
+        {
+          "claim": "A recent compilation of the evidence suggests that limiting your eating window might indeed help you shed a few pounds.",
+          "title": "Should you try intermittent fasting for weight loss?",
+          "authors": "Harvard Health Publishing",
+          "section": "Main article",
+          "paragraph": "A recent compilation of the evidence suggests that limiting your eating window might indeed help you shed a few pounds.",
+          "url": "https://www.health.harvard.edu/blog/should-you-try-intermittent-fasting-for-weight-loss-202207282790",
+          "venue": "Harvard Health Blog",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "A recent compilation of the evidence suggests that limiting your eating window might indeed help you shed a few pounds.",
+          "supporting_assumptions": [
+            "Weight loss aids metabolic health.",
+            "Review includes sufficiently rigorous studies."
+          ],
+          "refuting_assumptions": [
+            "Metabolic health involves more than weight loss.",
+            "Magnitude of weight loss may be small."
+          ],
+          "credibility_score": "Source: Harvard Medical School"
+        },
+        {
+          "claim": "One small study suggests that intermittent fasting may reduce the drop in metabolic rate that’s associated with weight loss.",
+          "title": "Does Intermittent Fasting Boost Your Metabolism?",
+          "authors": "Kris Gunnars, Healthline",
+          "section": "Summary",
+          "paragraph": "One small study suggests that intermittent fasting may reduce the drop in metabolic rate that’s associated with weight loss. More research is needed.",
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-metabolism",
+          "venue": "Healthline",
+          "year": "2021",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "One small study suggests that intermittent fasting may reduce the drop in metabolic rate that’s associated with weight loss.",
+          "supporting_assumptions": [
+            "Reducing metabolic adaptation is positive for metabolic health.",
+            "Findings are relevant for individuals attempting weight loss."
+          ],
+          "refuting_assumptions": [
+            "Small study size limits generalizability.",
+            "Other studies are needed for confirmation."
+          ],
+          "credibility_score": "Source: Cites peer-reviewed studies"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Dairy consumption increases the risk of cancer.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Our overview identified conflicting evidence from PMASRs on association between dairy consumption and incident cancers or mortality.<a href=\"https://bmjopen.bmj.com/content/9/1/e023625\">[1]</a> But there is no strong evidence that dairy increases cancer risk.<a href=\"https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/dairy-and-cancer-risk\">[2]</a> Our results imply that high milk consumption, especially high/whole-fat milk, was associated with higher cancer mortality, whereas fermented milk consumption was not.<a href=\"https://pubmed.ncbi.nlm.nih.gov/34788365/\">[3]</a> Some studies show that consuming dairy products may lead to increased cancer risk, while other studies show that dairy may promote cancer prevention.<a href=\"https://www.mdanderson.org/cancerwise/5-things-to-know-about-dairy-and-cancer-risk.h00-159623379.html\">[4]</a> Evidence indicates that dairy consumption, particularly milk, can decrease colorectal cancer risk.<a href=\"https://pubmed.ncbi.nlm.nih.gov/38289521/\">[5]</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The scientific literature presents mixed results: some studies find possible links between high milk or certain dairy consumption and specific cancer risks, while other large, high-quality studies do not show a consistent increase in cancer risk overall. There is also evidence that dairy may be protective against colorectal cancer, and methodological limitations in available research further complicate interpretation. Therefore, while an increased risk with dairy is not conclusively supported overall, the claim cannot be entirely dismissed for specific products or certain cancers.",
+      "subclaims": [
+        {
+          "claim": "Our overview identified conflicting evidence from PMASRs on association between dairy consumption and incident cancers or mortality.",
+          "title": "Dairy product consumption and development of cancer",
+          "authors": "MM Jeyaraman et al.",
+          "section": "Results/Conclusions",
+          "paragraph": "Our overview identified conflicting evidence from PMASRs on association between dairy consumption and incident cancers or mortality. Heterogeneity in summary estimates reflected the inclusion of variable study designs and overall low methodological quality of individual PMASRs.",
+          "url": "https://bmjopen.bmj.com/content/9/1/e023625",
+          "venue": "BMJ Open",
+          "year": "2019",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Our overview identified conflicting evidence from PMASRs on association between dairy consumption and incident cancers or mortality.",
+          "supporting_assumptions": [
+            "Meta-analyses are reflective of broader scientific opinion",
+            "Conflicting results indicate lack of consensus"
+          ],
+          "refuting_assumptions": [
+            "All included studies had sufficient power and quality",
+            "Conflicting evidence could be due to methodological bias"
+          ],
+          "credibility_score": "Cited by 45"
+        },
+        {
+          "claim": "But there is no strong evidence that dairy increases cancer risk.",
+          "title": "Milk, dairy and cancer risk",
+          "authors": "Cancer Research UK",
+          "section": "Does milk and dairy cause cancer?",
+          "paragraph": "But there is no strong evidence that dairy increases cancer risk. In the largest, best quality studies there is no consistent link between dairy and increased cancer risk.",
+          "url": "https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/dairy-and-cancer-risk",
+          "venue": "Cancer Research UK",
+          "year": "2025",
+          "contribution": "completely refutes",
+          "relevant_sentence": "But there is no strong evidence that dairy increases cancer risk.",
+          "supporting_assumptions": [
+            "No strong association shown in high-quality studies",
+            "No mechanistic evidence consistently linking dairy to cancer"
+          ],
+          "refuting_assumptions": [
+            "Possible small-risk increases masked by study design",
+            "Population-specific risks not detected in large studies"
+          ],
+          "credibility_score": "Major national cancer charity"
+        },
+        {
+          "claim": "Our results imply that high milk consumption, especially high/whole-fat milk, was associated with higher cancer mortality, whereas fermented milk consumption was not.",
+          "title": "Dairy Consumption and Total Cancer and Cancer-Specific Mortality: A Meta-Analysis of Prospective Cohort Studies",
+          "authors": "S Jin, Y Je",
+          "section": "Results/Abstract",
+          "paragraph": "Our results imply that high milk consumption, especially high/whole-fat milk, was associated with higher cancer mortality, whereas fermented milk consumption was not.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34788365/",
+          "venue": "Advances in Nutrition",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Our results imply that high milk consumption, especially high/whole-fat milk, was associated with higher cancer mortality, whereas fermented milk consumption was not.",
+          "supporting_assumptions": [
+            "Cancer mortality is an appropriate proxy for risk",
+            "Milk consumption is accurately reported"
+          ],
+          "refuting_assumptions": [
+            "Confounders not controlled",
+            "Mortality may not reflect incidence"
+          ],
+          "credibility_score": "Cited by 25"
+        },
+        {
+          "claim": "Some studies show that consuming dairy products may lead to increased cancer risk, while other studies show that dairy may promote cancer prevention.",
+          "title": "5 things to know about dairy and cancer risk",
+          "authors": "MD Anderson Cancer Center Staff",
+          "section": "Article summary",
+          "paragraph": "Some studies show that consuming dairy products may lead to increased cancer risk, while other studies show that dairy may promote cancer prevention.",
+          "url": "https://www.mdanderson.org/cancerwise/5-things-to-know-about-dairy-and-cancer-risk.h00-159623379.html",
+          "venue": "MD Anderson Cancer Center",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Some studies show that consuming dairy products may lead to increased cancer risk, while other studies show that dairy may promote cancer prevention.",
+          "supporting_assumptions": [
+            "Contradictory evidence is meaningful",
+            "Prevention and risk both possible depending on cancer type"
+          ],
+          "refuting_assumptions": [
+            "Summary may oversimplify nuanced literature",
+            "Causality not established"
+          ],
+          "credibility_score": "Top-ranked US cancer center"
+        },
+        {
+          "claim": "Evidence indicates that dairy consumption, particularly milk, can decrease colorectal cancer risk.",
+          "title": "The Dairy and Cancer Controversy: Milking the Evidence",
+          "authors": "TE Scialo et al.",
+          "section": "Abstract",
+          "paragraph": "Evidence indicates that dairy consumption, particularly milk, can decrease colorectal cancer risk. However, cow's milk, a key dairy product, exposes ...",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38289521/",
+          "venue": "Nutrients",
+          "year": "2024",
+          "contribution": "completely refutes",
+          "relevant_sentence": "Evidence indicates that dairy consumption, particularly milk, can decrease colorectal cancer risk.",
+          "supporting_assumptions": [
+            "Colorectal cancer risk is a major domain of study",
+            "Inverse association with dairy is significant"
+          ],
+          "refuting_assumptions": [
+            "Protective effect only for certain dairy types or populations"
+          ],
+          "credibility_score": "Cited by 6"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Hydroelectric dams are always a clean energy source.",
+    "num_articles": 5,
+    "output": {
+      "summary": "While hydroelectric power projects are a renewable source, they can have significant environmental impacts, including ecosystem disruption and greenhouse gas emissions from reservoirs, challenging the claim that hydroelectric dams are always a clean energy source.<a>https://www.pcienergysolutions.com/2024/03/20/how-to-improve-hydropower-generation-while-managing-environmental-impacts/</a> Dams can have severe environmental impacts ranging from deforestation to obstruction of fish migrations, water pollution, and even direct greenhouse gas emissions resulting from inundation of the surrounding area.<a>https://www.woodwellclimate.org/brazil-hydroelectric-dams-cerrado/</a> Hydropower plants do not emit the waste heat and gases common with fossil-fuel driven facilities, but the dams associated with them do change the natural river environment, and there is often a price to pay for these changes.<a>https://www.iwr.usace.army.mil/Missions/Value-to-the-Nation/Hydropower/Hydropower-Environmental-Benefits/</a> Hydroelectric power production is largely free of several major classes of environmental impacts associated with non-renewable energy sources but can cause emissions of greenhouse gases from flooded vegetation at some sites and displacement of people and wildlife.<a>https://www.hydro.org/wp-content/uploads/2017/08/EMTSSummit4.pdf</a> Additionally, reservoirs can be sources of methane, a potent greenhouse gas, due to decaying organic matter in the stagnant water.<a>https://www.pcienergysolutions.com/2024/03/20/how-to-improve-hydropower-generation-while-managing-environmental-impacts/</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "While hydroelectric dams generally produce less air pollution than fossil fuels and are often considered clean energy, they can cause substantial environmental harm, such as ecosystem disruption, methane emissions, and habitat loss, which means they are not always a clean energy source.",
+      "subclaims": [
+        {
+          "claim": "While hydroelectric power projects are a renewable source, they can have significant environmental impacts, including ecosystem disruption and greenhouse gas emissions from reservoirs, challenging the claim that hydroelectric dams are always a clean energy source.",
+          "title": "What Effects Does Hydropower Have on the Environment",
+          "authors": "PCI Energy Solutions Editors",
+          "section": "Environmental impacts of hydropower",
+          "paragraph": "How does hydroelectricity affect the environment? While hydroelectric power projects are a renewable source, they can have significant environmental impacts. These impacts arise primarily from the construction and operation of dams and reservoirs.",
+          "url": "https://www.pcienergysolutions.com/2024/03/20/how-to-improve-hydropower-generation-while-managing-environmental-impacts/",
+          "venue": "PCI Energy Solutions",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "While hydroelectric power projects are a renewable source, they can have significant environmental impacts.",
+          "supporting_assumptions": [
+            "Environmental impact is a key criterion for 'clean energy' classification",
+            "Impacts like ecosystem disruption and GHG emissions are considered negative"
+          ],
+          "refuting_assumptions": [
+            "If only direct air pollution during operation is considered",
+            "If other impacts are ignored"
+          ],
+          "credibility_score": "Medium (industry source, up-to-date)"
+        },
+        {
+          "claim": "Dams can have severe environmental impacts ranging from deforestation to obstruction of fish migrations, water pollution, and even direct greenhouse gas emissions resulting from inundation of the surrounding area.",
+          "title": "Cumulative impacts of Brazil's hydroelectric plants - Woodwell Climate",
+          "authors": "Woodwell Water program director Dr. Marcia Macedo et al.",
+          "section": "Cumulative impacts of Brazil’s hydroelectric plants",
+          "paragraph": "While often offered as a cleaner alternative to fossil fuels, dams can have severe environmental impacts ranging from deforestation to obstruction of fish migrations, water pollution, and even direct greenhouse gas emissions resulting from inundation of the surrounding area.",
+          "url": "https://www.woodwellclimate.org/brazil-hydroelectric-dams-cerrado/",
+          "venue": "Woodwell Climate Research Center",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Dams can have severe environmental impacts ranging from deforestation to obstruction of fish migrations, water pollution, and even direct greenhouse gas emissions resulting from inundation of the surrounding area.",
+          "supporting_assumptions": [
+            "Definition of 'clean energy' includes overall environmental impacts",
+            "Direct GHG emissions from reservoirs are relevant"
+          ],
+          "refuting_assumptions": [
+            "If only operational emissions are considered"
+          ],
+          "credibility_score": "High (research center, expert commentary, recent)"
+        },
+        {
+          "claim": "Hydropower plants do not emit the waste heat and gases common with fossil-fuel driven facilities, but the dams associated with them do change the natural river environment, and there is often a price to pay for these changes.",
+          "title": "Hydropower: Environmental Benefits - Institute for Water Resources",
+          "authors": "US Army Corps of Engineers",
+          "section": "Hydropower Environmental Benefits",
+          "paragraph": "Hydropower is better for the environment than other major sources of electrical power, which use fossil fuels. Hydropower plants do not emit the waste heat and gases—common with fossil-fuel driven facilities—which are major contributors to air pollution, global warming and acid rain. The mining and drilling required to acquire fossil fuels for other power sources also have a significant negative environmental impact. ... However, hydropower projects and the dams associated with them do change the natural river environment, and there is often a price to pay for these changes.",
+          "url": "https://www.iwr.usace.army.mil/Missions/Value-to-the-Nation/Hydropower/Hydropower-Environmental-Benefits/",
+          "venue": "Institute for Water Resources",
+          "year": "2018",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Hydropower plants do not emit the waste heat and gases—common with fossil-fuel driven facilities—which are major contributors to air pollution, global warming and acid rain. ... However, hydropower projects and the dams associated with them do change the natural river environment, and there is often a price to pay for these changes.",
+          "supporting_assumptions": [
+            "'Clean' is not limited to air pollution",
+            "Ecological changes constitute negative impacts"
+          ],
+          "refuting_assumptions": [
+            "If only emissions during operation matter"
+          ],
+          "credibility_score": "Very High (US federal agency, cited resource)"
+        },
+        {
+          "claim": "Hydroelectric power production is largely free of several major classes of environmental impacts associated with non-renewable energy sources but can cause emissions of greenhouse gases from flooded vegetation at some sites and displacement of people and wildlife.",
+          "title": "Environmental Mitigation Technology for Hydropower: Summary Report of the 2010 Summit Meeting",
+          "authors": "Various (EMTS Summit 2010)",
+          "section": "Table 1. Potential environmental benefits and adverse impacts of hydroelectric power production",
+          "paragraph": "Hydroelectric power production is largely free of several major classes of environmental impacts associated with non-renewable energy sources. ... Emissions of greenhouse gases from flooded vegetation at some sites ... Displacement of people and terrestrial wildlife.",
+          "url": "https://www.hydro.org/wp-content/uploads/2017/08/EMTSSummit4.pdf",
+          "venue": "National Hydropower Association",
+          "year": "2010",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Emissions of greenhouse gases from flooded vegetation at some sites ... Displacement of people and terrestrial wildlife.",
+          "supporting_assumptions": [
+            "GHG emissions and habitat loss are significant"
+          ],
+          "refuting_assumptions": [
+            "If these impacts are considered minor or rare"
+          ],
+          "credibility_score": "Medium-High (industry association, summary of expert meeting)"
+        },
+        {
+          "claim": "Additionally, reservoirs can be sources of methane, a potent greenhouse gas, due to decaying organic matter in the stagnant water.",
+          "title": "What Effects Does Hydropower Have on the Environment",
+          "authors": "PCI Energy Solutions Editors",
+          "section": "Environmental impacts of hydropower",
+          "paragraph": "Additionally, reservoirs can be sources of methane, a potent greenhouse gas, due to decaying organic matter in the stagnant water.",
+          "url": "https://www.pcienergysolutions.com/2024/03/20/how-to-improve-hydropower-generation-while-managing-environmental-impacts/",
+          "venue": "PCI Energy Solutions",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Additionally, reservoirs can be sources of methane, a potent greenhouse gas, due to decaying organic matter in the stagnant water.",
+          "supporting_assumptions": [
+            "Methane emissions are relevant to 'clean energy' claims"
+          ],
+          "refuting_assumptions": [
+            "If methane emissions are ignored or considered minimal"
+          ],
+          "credibility_score": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "All calories have the same impact on weight, regardless of source.",
+    "num_articles": 5,
+    "output": {
+      "summary": "In contrast with carbohydrate quantity, more consistent evidence supports a role for the quality and source of carbohydrates with weight control<a>https://www.bmj.com/content/382/bmj-2022-073939</a>. Research has shown that people can freely eat foods that are 300 calories per pound or less and not gain weight<a>https://www.forksoverknives.com/wellness/the-calorie-density-approach-to-nutrition-and-lifelong-weight-management/</a>. Eating cereals can be a great way to add calories and beneficial nutrients to your weight gain eating plan<a>https://www.healthline.com/nutrition/18-foods-to-gain-weight</a>. Try to choose lean cuts<a>https://www.myfooddata.com/articles/highest-calorie-foods.php</a>. A 100 g/day increase in starch or added sugar was associated with 1.5 kg and 0.9 kg greater weight gain over four years, respectively<a>https://www.bmj.com/content/382/bmj-2022-073939</a>.",
+      "accuracy": "False",
+      "reason_for_accuracy": "The evidence consistently demonstrates that the source and quality of calories—whether from refined grains, added sugars, whole grains, or various food types—differentially influence weight gain and weight control, directly refuting the claim that all calories have the same impact on weight regardless of their source.",
+      "subclaims": [
+        {
+          "claim": "In contrast with carbohydrate quantity, more consistent evidence supports a role for the quality and source of carbohydrates with weight control.",
+          "title": "Association between changes in carbohydrate intake and long term weight gain among adults in the United States: prospective cohort study",
+          "authors": "Wang et al.",
+          "section": "Discussion",
+          "paragraph": "In contrast with carbohydrate quantity, more consistent evidence supports a role for the quality and source of carbohydrates with weight control.13 14 15 For example, higher intakes of whole grains and dietary fiber have been related to favorable changes in body weight, whereas refined grains have been positively associated with weight gain.16 Also, two metrics of carbohydrate quality, the glycemic index and glycemic load, have been investigated in many studies, with small benefits observed for weight management.",
+          "url": "https://www.bmj.com/content/382/bmj-2022-073939",
+          "venue": "The BMJ",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "In contrast with carbohydrate quantity, more consistent evidence supports a role for the quality and source of carbohydrates with weight control.",
+          "supporting_assumptions": [
+            "Macronutrient quality influences metabolism",
+            "Long-term weight outcomes depend on food source"
+          ],
+          "refuting_assumptions": [
+            "All calories are metabolically equivalent",
+            "Food source does not matter for weight"
+          ],
+          "credibility_score": "Impact Factor 93, High citation"
+        },
+        {
+          "claim": "Research has shown that people can freely eat foods that are 300 calories per pound or less and not gain weight.",
+          "title": "Calorie Density Approach to Nutrition and Weight Management",
+          "authors": "Forks Over Knives team",
+          "section": "Calorie Density Chart",
+          "paragraph": "Research has shown that people can freely eat foods that are 300 calories per pound or less and not gain weight. People can consume relatively large portions of foods that are between 300 and 800 calories per pound and still lose or maintain their weight depending on their individual activity levels and metabolism.",
+          "url": "https://www.forksoverknives.com/wellness/the-calorie-density-approach-to-nutrition-and-lifelong-weight-management/",
+          "venue": "Forks Over Knives",
+          "year": "2012",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Research has shown that people can freely eat foods that are 300 calories per pound or less and not gain weight.",
+          "supporting_assumptions": [
+            "Calorie density influences satiety and total intake",
+            "Whole foods have unique effects on weight"
+          ],
+          "refuting_assumptions": [
+            "Equal calorie portions have equal weight impact",
+            "Energy source irrelevant"
+          ],
+          "credibility_score": "Popular science, moderate credibility"
+        },
+        {
+          "claim": "Eating cereals can be a great way to add calories and beneficial nutrients to your weight gain eating plan.",
+          "title": "The 18 Best Healthy Foods to Gain Weight Fast",
+          "authors": "Atli Arnarson et al.",
+          "section": "Summary",
+          "paragraph": "Eating cereals can be a great way to add calories and beneficial nutrients to your weight gain eating plan. Top cereals with calorie-dense nut spread, sweetener, or whole nuts and seeds.",
+          "url": "https://www.healthline.com/nutrition/18-foods-to-gain-weight",
+          "venue": "Healthline",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Eating cereals can be a great way to add calories and beneficial nutrients to your weight gain eating plan.",
+          "supporting_assumptions": [
+            "Different calorie sources offer different nutrient profiles",
+            "Calorie density varies by food"
+          ],
+          "refuting_assumptions": [
+            "Impact of calories on weight is uniform",
+            "No food-specific effects"
+          ],
+          "credibility_score": "High website authority, high engagement"
+        },
+        {
+          "claim": "Try to choose lean cuts.",
+          "title": "Top 10 Foods Highest in Calories",
+          "authors": "MyFoodData team",
+          "section": "More Meats High in Calories",
+          "paragraph": "- 369 calories in 1 cup of roast ham\n- 360 calories in a 6oz of beef pot roast\n- 332 calories in a 6oz lean pork chop\n- 268 calories in a 5oz chuck steak\n- 231 calories in a 1 cup of diced chicken breast\n\nSee the full list of high calorie meats.\n\nTry to choose lean cuts.",
+          "url": "https://www.myfooddata.com/articles/highest-calorie-foods.php",
+          "venue": "MyFoodData",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Try to choose lean cuts.",
+          "supporting_assumptions": [
+            "Fat content in calorie sources impacts weight and health",
+            "Food composition is relevant"
+          ],
+          "refuting_assumptions": [
+            "Calorie source irrelevant to weight gain",
+            "Fat vs lean calories equal in impact"
+          ],
+          "credibility_score": "Data-centric, widely referenced"
+        },
+        {
+          "claim": "A 100 g/day increase in starch or added sugar was associated with 1.5 kg and 0.9 kg greater weight gain over four years, respectively.",
+          "title": "Association between changes in carbohydrate intake and long term weight gain among adults in the United States: prospective cohort study",
+          "authors": "Wang et al.",
+          "section": "Results",
+          "paragraph": "A 100 g/day increase in starch or added sugar was associated with 1.5 kg and 0.9 kg greater weight gain over four years, respectively. Increased carbohydrate intake from whole grains (0.4 kg less weight gain per 100 g/day increase), fruit (1.6 kg less weight gain per 100 g/day increase), and non-starchy vegetables (3.0 kg less weight gain per 100 g/day increase) was inversely associated with weight gain, whereas increased intake from refined grains (0.8 kg more weight gain per 100 g/day increase) and starchy vegetables (peas, corn, and potatoes) (2.6 kg more weight gain per 100 g/day increase) was positively associated with weight gain.",
+          "url": "https://www.bmj.com/content/382/bmj-2022-073939",
+          "venue": "The BMJ",
+          "year": "2023",
+          "contribution": "completely refutes",
+          "relevant_sentence": "A 100 g/day increase in starch or added sugar was associated with 1.5 kg and 0.9 kg greater weight gain over four years, respectively.",
+          "supporting_assumptions": [
+            "Different carbs affect weight differently",
+            "Added sugar has unique metabolic effects"
+          ],
+          "refuting_assumptions": [
+            "Only calorie amount matters",
+            "Carbohydrate source is irrelevant"
+          ],
+          "credibility_score": "Impact Factor 93, High citation"
+        }
+      ]
+    }
+  }
+]

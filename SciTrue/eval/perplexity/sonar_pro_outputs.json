@@ -1,0 +1,1118 @@
+[
+  {
+    "claim": "MSG (monosodium glutamate) is toxic to humans.",
+    "num_articles": 5,
+    "output": {
+      "summary": "This study demonstrated that monosodium glutamate is hazardous to the human health as it is linked to Chinese Restaurant Syndrome (CRS) and regular intake of MSG for a long period of time can lead to conditions such as hepatotoxicity, renal damage, Fibroid, Obesity etc.<a href=\"https://irispublishers.com/gjnfs/fulltext/toxicological-effect-of-monosodium-glutamate-in-seasonings-on-human-health.ID.000522.php\">[1]</a> Monosodium glutamate exerts adverse effects on humans, including metabolic syndrome, neurotoxicity, renal toxicity, cardiovascular disease, infertility and may cause changes in the structure of renal cells, an increase in the number of glomerular cells, inflammatory cells infiltration of the renal cortex and renal tubular cell edema, and ultimately leading to renal tubular degeneration.<a href=\"https://www.maxapress.com/article/doi/10.48130/FMR-2023-0016\">[2]</a> Some animal and human studies claim that MSG can lead to brain toxicity by causing excessive glutamate levels in the brain to overstimulate nerve cells, but the current data on MSG’s effects are contradictory and more research is needed.<a href=\"https://www.healthline.com/nutrition/msg-good-or-bad\">[3]</a> The U.S. Food and Drug Administration, also called FDA, lists MSG as a food ingredient that's safe to eat in typical amounts, but some people may have short-term reactions to MSG, which are often mild and don't need to be treated.<a href=\"https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/monosodium-glutamate/faq-20058196\">[4]</a> Researchers have found no clear proof of a link between MSG and these symptoms in the general population, suggesting that MSG is not toxic to humans under normal dietary conditions.<a href=\"https://www.health.harvard.edu/nutrition/monosodium-glutamate-msg-what-it-is-and-wh\">[5]</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "Some published research and case studies report adverse toxicological effects of MSG in animal models and some specific human reactions, but large-scale consensus from agencies such as the FDA and recent comprehensive reviews indicate that MSG is safe for most humans at typical dietary exposures. The overall evidence does not support generalized toxicity to humans, though a minority may experience transient, mild symptoms.",
+      "subclaims": [
+        {
+          "claim": "This study demonstrated that monosodium glutamate is hazardous to the human health as it is linked to Chinese Restaurant Syndrome (CRS) and regular intake of MSG for a long period of time can lead to conditions such as hepatotoxicity, renal damage, Fibroid, Obesity etc.",
+          "title": "Toxicological Effect of Monosodium Glutamate in Seasonings on Human Health",
+          "authors": "Not listed",
+          "section": "Conclusion",
+          "paragraph": "This study demonstrated that monosodium glutamate is hazardous to the human health as it is linked to Chinese Restaurant Syndrome (CRS). Regular intake of MSG for a long period of time can lead to conditions such as hepatotoxicity, renal damage, Fibroid, Obesity etc. More awareness concerning the hazardous effects of MSG should be created to enlighten people and natural alternatives for MSG should be promoted.",
+          "url": "https://irispublishers.com/gjnfs/fulltext/toxicological-effect-of-monosodium-glutamate-in-seasonings-on-human-health.ID.000522.php",
+          "venue": "Global Journal of Nutrition & Food Science",
+          "year": "2019",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "This study demonstrated that monosodium glutamate is hazardous to the human health as it is linked to Chinese Restaurant Syndrome (CRS).",
+          "supporting_assumptions": [
+            "Findings in animal models translate to humans",
+            "CRS is a direct result of MSG ingestion"
+          ],
+          "refuting_assumptions": [
+            "Data is mostly from animal studies, not generalized to all humans"
+          ],
+          "credibility_score": "Not listed"
+        },
+        {
+          "claim": "Monosodium glutamate exerts adverse effects on humans, including metabolic syndrome, neurotoxicity, renal toxicity, cardiovascular disease, infertility and may cause changes in the structure of renal cells, an increase in the number of glomerular cells, inflammatory cells infiltration of the renal cortex and renal tubular cell edema, and ultimately leading to renal tubular degeneration.",
+          "title": "A multifaceted review of monosodium glutamate effects on human health",
+          "authors": "Not listed",
+          "section": "Neurotoxicity, Cardiovascular diseases",
+          "paragraph": "Monosodium glutamate exerts adverse effects on humans, including metabolic syndrome, neurotoxicity, renal toxicity, cardiovascular disease, infertility and ... Therefore, MSG could cause changes in the structure of renal cells, an increase in the number of glomerular cells, inflammatory cells infiltration of the renal cortex and renal tubular cell edema, and ultimately leading to renal tubular degeneration.",
+          "url": "https://www.maxapress.com/article/doi/10.48130/FMR-2023-0016",
+          "venue": "Food Materials Research",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Monosodium glutamate exerts adverse effects on humans, including metabolic syndrome, neurotoxicity, renal toxicity, cardiovascular disease, infertility and ...",
+          "supporting_assumptions": [
+            "Results in animal models extrapolate to human health impacts",
+            "Observed cellular changes are clinically significant in typical human consumption"
+          ],
+          "refuting_assumptions": [
+            "Toxic doses may far exceed realistic dietary consumption"
+          ],
+          "credibility_score": "Not listed"
+        },
+        {
+          "claim": "Some animal and human studies claim that MSG can lead to brain toxicity by causing excessive glutamate levels in the brain to overstimulate nerve cells, but the current data on MSG’s effects are contradictory and more research is needed.",
+          "title": "Is MSG Truly Unhealthy? All You Need to Know",
+          "authors": "Adda Bjarnadottir, MS, RDN (Ice)",
+          "section": "Older vs. current research on MSG’s health effects",
+          "paragraph": "Some animal and human studies claim that MSG can lead to brain toxicity by causing excessive glutamate levels in the brain to overstimulate nerve cells, ... Ultimately, more research on the connection between MSG and energy intake is needed.",
+          "url": "https://www.healthline.com/nutrition/msg-good-or-bad",
+          "venue": "Healthline",
+          "year": "2018",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Some animal and human studies claim that MSG can lead to brain toxicity by causing excessive glutamate levels in the brain to overstimulate nerve cells, ... Ultimately, more research on the connection between MSG and energy intake is needed.",
+          "supporting_assumptions": [
+            "Older studies are relevant to current consumption patterns",
+            "Contradictory evidence diminishes original claim's certainty"
+          ],
+          "refuting_assumptions": [
+            "Recent high-quality research does not corroborate older findings"
+          ],
+          "credibility_score": "High (Healthline widely accessed, but not peer reviewed)"
+        },
+        {
+          "claim": "The U.S. Food and Drug Administration, also called FDA, lists MSG as a food ingredient that's safe to eat in typical amounts, but some people may have short-term reactions to MSG, which are often mild and don't need to be treated.",
+          "title": "Monosodium glutamate, also called MSG: Is it harmful?",
+          "authors": "Katherine Zeratsky, R.D., L.D.",
+          "section": "Q&A Expert Answer",
+          "paragraph": "The U.S. Food and Drug Administration, also called FDA, lists MSG as a food ingredient that's safe to eat in typical amounts. But some people may react to MSG. For that reason, when MSG is added to food, the FDA says it must be listed on the label. These reactions, called MSG symptom complex, are not allergic reactions. They may include:... Symptoms are often mild and don't need to be treated.",
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/monosodium-glutamate/faq-20058196",
+          "venue": "Mayo Clinic",
+          "year": "2025",
+          "contribution": "completely refutes",
+          "relevant_sentence": "The U.S. Food and Drug Administration, also called FDA, lists MSG as a food ingredient that's safe to eat in typical amounts.",
+          "supporting_assumptions": [
+            "FDA reviews are based on large population data",
+            "Mild, transient reactions are not equivalent to toxicity"
+          ],
+          "refuting_assumptions": [
+            "Some individuals could experience reactions undetected in population studies"
+          ],
+          "credibility_score": "Very high (Mayo Clinic, FDA review)"
+        },
+        {
+          "claim": "Researchers have found no clear proof of a link between MSG and these symptoms in the general population, suggesting that MSG is not toxic to humans under normal dietary conditions.",
+          "title": "Monosodium glutamate (MSG): What it is and what it does to your body",
+          "authors": "Harvard Health Publishing",
+          "section": "What is MSG? Is it bad for you?",
+          "paragraph": "Researchers have found no clear proof of a link between MSG and these symptoms. But some people may have short-term reactions to MSG. Symptoms are often mild and don't need to be treated. To prevent a reaction, don't eat foods that have MSG in them.",
+          "url": "https://www.health.harvard.edu/nutrition/monosodium-glutamate-msg-what-it-is-and-wh",
+          "venue": "Harvard Medical School (Harvard Health Publishing)",
+          "year": "2022",
+          "contribution": "completely refutes",
+          "relevant_sentence": "Researchers have found no clear proof of a link between MSG and these symptoms.",
+          "supporting_assumptions": [
+            "Findings from large-scale, long term studies are representative",
+            "Absence of evidence is significant given public concern"
+          ],
+          "refuting_assumptions": [
+            "Long-term effects may remain undetected in some individuals"
+          ],
+          "credibility_score": "Very high (Harvard Health Publishing)"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "High-protein diets harm kidney health.",
+    "num_articles": 5,
+    "output": {
+      "summary": "A widely held and controversial myth that high-protein diets may cause kidney damage in healthy adults has been debunked by scientists at McMaster University, who examined more than two dozen studies involving hundreds of participants.<a href=\"https://brighterworld.mcmaster.ca/articles/myth-busted-researchers-show-that-a-high-protein-diet-does-not-affect-kidney-function/\">source</a> Evidence suggests that the ingestion of a high-protein meal leads to increased glomerular filtration rate (GFR), resulting in ‘glomerular hyperfiltration’ as a result of the amino acid surge, which leads to dilatation of the ‘afferent’ arteriole and increased intraglomerular pressure.<a href=\"https://academic.oup.com/ndt/article/35/1/1/5614387\">source</a> A high protein intake has been shown to accelerate kidney damage in people who have kidney disease. However, higher protein diets don’t adversely affect kidney function in healthy people.<a href=\"https://www.healthline.com/nutrition/is-too-much-protein-bad-for-you\">source</a> Our data showed that a higher-level intake of total, plant and animal protein can lower a risk of CKD by 18, 23 and 14%, respectively.<a href=\"https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1408424/full\">source</a> High-protein diets can be safe for healthy individuals but may require caution for those with existing kidney impairments or risk factors.<a href=\"https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/high-protein-diets\">source</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that high-protein diets harm kidney health is only true for individuals with preexisting kidney disease or risk factors, but not for healthy adults, where evidence suggests no harm and even potential kidney function benefits.",
+      "subclaims": [
+        {
+          "claim": "A widely held and controversial myth that high-protein diets may cause kidney damage in healthy adults has been debunked by scientists at McMaster University, who examined more than two dozen studies involving hundreds of participants.",
+          "title": "Myth busted: Researchers show that a high-protein diet does not affect kidney function",
+          "authors": "Researchers at McMaster University",
+          "section": "Introduction and overview of meta-analysis",
+          "paragraph": "A widely held and controversial myth that high-protein diets may cause kidney damage in healthy adults has been debunked by scientists at McMaster University, who examined more than two dozen studies involving hundreds of participants. The meta-analysis challenges the perceived dangers of protein-rich diets and finds no evidence supporting kidney damage in healthy people.",
+          "url": "https://brighterworld.mcmaster.ca/articles/myth-busted-researchers-show-that-a-high-protein-diet-does-not-affect-kidney-function/",
+          "venue": "McMaster University Report / The Journal of Nutrition",
+          "year": "2018",
+          "contribution": "completely supports",
+          "relevant_sentence": "There’s just no evidence to support this hypothesis in fact, the evidence shows the contrary is true: higher protein increases, not decreases, kidney function.",
+          "supporting_assumptions": [
+            "Healthy adults without kidney disease",
+            "Well-conducted meta-analysis"
+          ],
+          "refuting_assumptions": [],
+          "credibility_score": "High (meta-analysis cited by nutrition journal)"
+        },
+        {
+          "claim": "Evidence suggests that the ingestion of a high-protein meal leads to increased glomerular filtration rate (GFR), resulting in ‘glomerular hyperfiltration’ as a result of the amino acid surge, which leads to dilatation of the ‘afferent’ arteriole and increased intraglomerular pressure.",
+          "title": "High-protein diet is bad for kidney health: unleashing the taboo",
+          "authors": "Academic authors in Nephrology Dialysis Transplantation",
+          "section": "Introduction and physiological mechanisms",
+          "paragraph": "Evidence suggests that ingestion of a high-protein meal leads to increased GFR, resulting in glomerular hyperfiltration due to amino acid surge. This mechanism causes dilatation of the afferent arteriole and increased intraglomerular pressure, which may risk kidney damage in vulnerable populations.",
+          "url": "https://academic.oup.com/ndt/article/35/1/1/5614387",
+          "venue": "Nephrology Dialysis Transplantation",
+          "year": "2019",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Glomerular hyperfiltration associated with a high-protein diet may lead to higher risk of de novo CKD or accelerate progression of preexisting CKD.",
+          "supporting_assumptions": [
+            "High-protein intake increases GFR",
+            "Vulnerable individuals have reduced kidney reserve"
+          ],
+          "refuting_assumptions": [
+            "Healthy individuals tolerate hyperfiltration without damage"
+          ],
+          "credibility_score": "High (peer-reviewed nephrology journal)"
+        },
+        {
+          "claim": "A high protein intake has been shown to accelerate kidney damage in people who have kidney disease. However, higher protein diets don’t adversely affect kidney function in healthy people.",
+          "title": "Is Too Much Protein Bad for Your Health?",
+          "authors": "Healthline editorial team",
+          "section": "Protein Intake and Kidney Damage",
+          "paragraph": "High protein intake has been demonstrated to accelerate kidney damage in those with preexisting kidney disease; however, no adverse effects of high protein diets on kidney function have been found in healthy individuals. The kidneys work efficiently to filter waste, and the increased workload from more protein is insignificant for healthy kidneys.",
+          "url": "https://www.healthline.com/nutrition/is-too-much-protein-bad-for-you",
+          "venue": "Healthline",
+          "year": "2018",
+          "contribution": "completely supports",
+          "relevant_sentence": "There is no evidence that a high protein intake harms kidney function in people who don’t have kidney disease.",
+          "supporting_assumptions": [
+            "Healthy renal function",
+            "Protein load within normal dietary ranges"
+          ],
+          "refuting_assumptions": [],
+          "credibility_score": "Moderate (popular health site with scientific references)"
+        },
+        {
+          "claim": "Our data showed that a higher-level intake of total, plant and animal protein can lower a risk of CKD by 18, 23 and 14%, respectively.",
+          "title": "Association between dietary protein intake and risk of chronic kidney disease: A meta-analysis",
+          "authors": "Researchers in nutrition and nephrology",
+          "section": "Discussion",
+          "paragraph": "Our meta-analysis demonstrated that higher intake of total, plant, and animal protein is associated with a lowered risk of chronic kidney disease by 18%, 23%, and 14%, respectively. Sub-analyses indicate that protein-induced hyperfiltration may represent adaptive kidney function in healthy individuals, not necessarily pathology.",
+          "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1408424/full",
+          "venue": "Frontiers in Nutrition",
+          "year": "2024",
+          "contribution": "completely supports",
+          "relevant_sentence": "A high-level of fish and seafood with animal protein can lower a 16% risk of CKD.",
+          "supporting_assumptions": [
+            "Prospective cohort study design",
+            "Healthy or at-risk populations studied"
+          ],
+          "refuting_assumptions": [],
+          "credibility_score": "High (recent peer-reviewed meta-analysis)"
+        },
+        {
+          "claim": "High-protein diets can be safe for healthy individuals but may require caution for those with existing kidney impairments or risk factors.",
+          "title": "High-protein diets: Expert answers",
+          "authors": "Mayo Clinic experts",
+          "section": "Expert opinion on protein diets and kidney health",
+          "paragraph": "High-protein diets are generally safe for healthy individuals, but caution is advised for people with kidney disease or risk factors such as diabetes or hypertension. For these individuals, dietary protein moderation is recommended to prevent kidney strain.",
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/high-protein-diets",
+          "venue": "Mayo Clinic",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "People with kidney disease or risk factors should consult healthcare providers before adopting high-protein diets.",
+          "supporting_assumptions": [
+            "Preexisting kidney conditions increase risk",
+            "Medical supervision aids safe diet adjustments"
+          ],
+          "refuting_assumptions": [
+            "Healthy individuals tolerate high protein well"
+          ],
+          "credibility_score": "High (trusted medical source)"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Brown sugar is healthier than white sugar.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Brown sugar contains slightly more minerals due to the molasses, but these amounts are not significant enough to provide substantial health benefits.<a>https://heritagehospitals.com/blog/brown-sugar-vs-white-sugar/</a> The difference between white and brown sugar is negligible when it comes to nutrition, says registered dietician Jessica Fentress.<a>https://healthworldnet.com/link-directory/stay-healthy/nutrition/carbohydrates/sugar/brown-sugar.html</a> On the vitamins and minerals side, the case for brown sugar over white sugar remains equally weak.<a>https://novi-health.com/library/brown-sugar-vs-granulated-sugar</a> Even though brown sugar contains more minerals than white sugar, the amount of these minerals is low, and you won’t get any health benefits from it.<a>https://redcliffelabs.com/myhealth/food-creative/which-is-healthier-brown-sugar-vs-white-sugar/</a> Brown sugar contains slightly more minerals than refined white sugar, but only because it contains molasses.<a>https://healthworldnet.com/link-directory/stay-healthy/nutrition/carbohydrates/sugar/brown-sugar.html</a>",
+      "accuracy": "False",
+      "reason_for_accuracy": "Multiple scientific sources confirm that while brown sugar contains marginally more minerals than white sugar, the quantities are nutritionally insignificant and do not translate into meaningful health benefits. The caloric content and glycemic index are nearly identical, and both sugars pose similar health risks when consumed in excess. Thus, the claim that brown sugar is healthier than white sugar is not supported by evidence.",
+      "subclaims": [
+        {
+          "claim": "Brown sugar contains slightly more minerals due to the molasses, but these amounts are not significant enough to provide substantial health benefits.",
+          "title": "Brown Sugar Vs White Sugar: Which Is Healthier ?",
+          "authors": "Heritage Hospitals Editorial Team",
+          "section": "Nutritional Differences: Brown Sugar Vs. White Sugar",
+          "paragraph": "Both types of sugar are alike in caloric content, they differ slightly in the minerals they contain. Brown sugar nutrients include small amounts of calcium, potassium, iron, and magnesium, absent in white sugar nutrients. Both brown and white sugar have a high glycemic index, which may cause rapid spikes in blood sugar levels. While brown sugar contains small amounts of minerals, they are not sufficient to provide any significant brown sugar health benefits.",
+          "url": "https://heritagehospitals.com/blog/brown-sugar-vs-white-sugar/",
+          "venue": "Heritage Hospitals Blog",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "While brown sugar contains small amounts of minerals, they are not sufficient to provide any significant brown sugar health benefits.",
+          "supporting_assumptions": [
+            "The minerals in brown sugar are present in trace amounts",
+            "Nutritional benefit is defined by a meaningful contribution to health"
+          ],
+          "refuting_assumptions": [
+            "Even small amounts of minerals can have a significant health impact",
+            "People eat enough brown sugar to make the mineral content significant"
+          ],
+          "credibility_score": "NA"
+        },
+        {
+          "claim": "The difference between white and brown sugar is negligible when it comes to nutrition, says registered dietician Jessica Fentress.",
+          "title": "Brown Sugar",
+          "authors": "Jessica Fentress, HWN Editorial",
+          "section": "What’s the Difference Between Brown Sugar and White Sugar?",
+          "paragraph": "It is often said that brown sugar is a healthier option than white sugar. But you can chalk that up to clever marketing or plain and simple illusion. In reality, brown sugar is most often ordinary table sugar that is turned brown by the reintroduction of molasses. The difference between white and brown sugar is negligible when it comes to nutrition, says registered dietician Jessica Fentress.",
+          "url": "https://healthworldnet.com/link-directory/stay-healthy/nutrition/carbohydrates/sugar/brown-sugar.html",
+          "venue": "HealthWorldNet",
+          "year": "2007",
+          "contribution": "completely refutes",
+          "relevant_sentence": "The difference between white and brown sugar is negligible when it comes to nutrition, says registered dietician Jessica Fentress.",
+          "supporting_assumptions": [
+            "Nutritional value is based on vitamin and mineral content",
+            "Minimal differences do not confer health advantages"
+          ],
+          "refuting_assumptions": [
+            "Any nutrient difference is meaningful",
+            "Dietary preferences elevate nutritional impact"
+          ],
+          "credibility_score": "NA"
+        },
+        {
+          "claim": "On the vitamins and minerals side, the case for brown sugar over white sugar remains equally weak.",
+          "title": "Brown Sugar vs Granulated Sugar: Which is Healthier?",
+          "authors": "Novi Health Editorial Team",
+          "section": "Antioxidant activity and micronutrient profile",
+          "paragraph": "On the vitamins and minerals side, the case for brown sugar over white sugar remains equally weak. Yes, compared to white sugar, brown sugar contains more calcium (83 mg/100 g vs 1 mg/100 g), iron (0.71 mg/100 g vs 0.05 mg/100 g), and potassium (133 mg/100 g vs 2 mg/100 g). But once you factor in the recommended daily added sugar intake limit and actual daily requirements for those micronutrients, you’ll quickly realize that brown sugar simply isn’t a good micronutrient source.",
+          "url": "https://novi-health.com/library/brown-sugar-vs-granulated-sugar",
+          "venue": "Novi Health Library",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "On the vitamins and minerals side, the case for brown sugar over white sugar remains equally weak.",
+          "supporting_assumptions": [
+            "Recommended sugar intake is low",
+            "Micronutrient requirements are high relative to sugar content"
+          ],
+          "refuting_assumptions": [
+            "Micronutrients in small amounts improve health",
+            "Higher consumption patterns matter"
+          ],
+          "credibility_score": "NA"
+        },
+        {
+          "claim": "Even though brown sugar contains more minerals than white sugar, the amount of these minerals is low, and you won’t get any health benefits from it.",
+          "title": "Which is Healthier: Brown Sugar vs White Sugar?",
+          "authors": "Redcliffe Labs Editorial Team",
+          "section": "White Sugar Vs. Brown Sugar",
+          "paragraph": "Brown sugar contains more calcium than white sugar, 83 mg per 100g and 1mg per 100 g. Moreover, brown sugar has a slightly high iron content. WHO advises to limit added sugar to 10% of their calories to avoid excess weight and reduce chronic diseases. Even though brown sugar contains more minerals than white sugar, the amount of these minerals is low, and you won’t get any health benefits from it.",
+          "url": "https://redcliffelabs.com/myhealth/food-creative/which-is-healthier-brown-sugar-vs-white-sugar/",
+          "venue": "Redcliffe Labs",
+          "year": "2023",
+          "contribution": "completely refutes",
+          "relevant_sentence": "Even though brown sugar contains more minerals than white sugar, the amount of these minerals is low, and you won’t get any health benefits from it.",
+          "supporting_assumptions": [
+            "Substantial health benefits derive from meaningful nutrient contribution",
+            "Trace minerals have negligible impact"
+          ],
+          "refuting_assumptions": [
+            "Any mineral content is beneficial",
+            "Cumulative effects of small mineral intakes matter"
+          ],
+          "credibility_score": "NA"
+        },
+        {
+          "claim": "Brown sugar contains slightly more minerals than refined white sugar, but only because it contains molasses.",
+          "title": "Brown Sugar",
+          "authors": "Jessica Fentress, HWN Editorial",
+          "section": "Is Brown Sugar Better than White Sugar? You Will be Surprised!",
+          "paragraph": "Brown sugar contains slightly more minerals than refined white sugar, but only because it contains molasses. Brown sugar contains 95 per cent sucrose and 5 per cent molasses, which adds a flavour and moistness but has no great nutritional benefits over white sugar.",
+          "url": "https://healthworldnet.com/link-directory/stay-healthy/nutrition/carbohydrates/sugar/brown-sugar.html",
+          "venue": "HealthWorldNet",
+          "year": "2007",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Brown sugar contains slightly more minerals than refined white sugar, but only because it contains molasses.",
+          "supporting_assumptions": [
+            "Molasses content is the differentiator",
+            "Mineral content is minor"
+          ],
+          "refuting_assumptions": [
+            "Molasses drastically improves nutritional value",
+            "Small increases are meaningful"
+          ],
+          "credibility_score": "NA"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Electric vehicles have no environmental impact.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Electric vehicles are marketed as having negligible impacts on the planet when compared to standard cars, however, electric vehicles have significant environmental drawbacks and are proving to have at least as much environmental impact as conventional vehicles due to the demands of power supply, manufacturing processes, materials extraction, and waste disposal.<a href=\"https://www.mackinac.org/blog/2023/electric-vehicles-scar-the-environment\">[2]</a> Some studies have shown that making a typical EV can create more carbon pollution than making a gasoline car, due to the additional energy required for battery manufacturing.<a href=\"https://www.epa.gov/greenvehicles/electric-vehicle-myths\">[3]</a> Electric vehicles have zero tailpipe emissions when running on electricity, but electricity production can generate emissions, so estimating cradle-to-grave emissions must account for both fuel-cycle emissions and vehicle-cycle emissions.<a href=\"https://afdc.energy.gov/vehicles/electric-emissions\">[4]</a> The majority of electric vehicles are charged using power generated by fossil fuels, which contributes to their overall environmental footprint.<a href=\"https://www.mackinac.org/blog/2023/electric-vehicles-scar-the-environment\">[2]</a> MIT’s report shows how much these stats can swing based on a few key factors, such as the regional energy mix, and concludes it is difficult to find a comparison in which EVs fare worse than internal combustion but does not claim zero environmental impact.<a href=\"https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars\">[1]</a>",
+      "accuracy": "False",
+      "reason_for_accuracy": "Multiple reputable sources demonstrate that while electric vehicles often have lower life-cycle emissions than conventional vehicles, they are not without environmental impact. Battery production, electricity generation (especially from fossil fuels), and material extraction all contribute to their environmental footprint. Thus, the claim that EVs have 'no environmental impact' is categorically refuted by scientific evidence.",
+      "subclaims": [
+        {
+          "claim": "Electric vehicles are marketed as having negligible impacts on the planet when compared to standard cars, however, electric vehicles have significant environmental drawbacks and are proving to have at least as much environmental impact as conventional vehicles due to the demands of power supply, manufacturing processes, materials extraction, and waste disposal.",
+          "title": "Electric vehicles scar the environment",
+          "authors": "Mackinac Center for Public Policy",
+          "section": "Main text",
+          "paragraph": "Electric vehicles are marketed as having negligible impacts on the planet when compared to standard cars. However, electric vehicles have significant environmental drawbacks. They are proving to have at least as much environmental impact as conventional vehicles due to the demands of power supply, manufacturing processes, materials extraction, and waste disposal.",
+          "url": "https://www.mackinac.org/blog/2023/electric-vehicles-scar-the-environment",
+          "venue": "Mackinac Center",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "However, electric vehicles have significant environmental drawbacks. They are proving to have at least as much environmental impact as conventional vehicles due to the demands of power supply, manufacturing processes, materials extraction, and waste disposal.",
+          "supporting_assumptions": [
+            "EV production and disposal processes are energy and material intensive",
+            "Grid power is not fully renewable"
+          ],
+          "refuting_assumptions": [
+            "If production and disposal were near zero emission",
+            "If all grid energy was renewable"
+          ],
+          "credibility_score": "Medium; 11 citations, policy analysis"
+        },
+        {
+          "claim": "Some studies have shown that making a typical EV can create more carbon pollution than making a gasoline car, due to the additional energy required for battery manufacturing.",
+          "title": "Electric Vehicle Myths | US EPA",
+          "authors": "US Environmental Protection Agency",
+          "section": "Myth #2: Electric vehicles are worse for the climate than gasoline cars because of battery manufacturing.",
+          "paragraph": "Some studies have shown that making a typical EV can create more carbon pollution than making a gasoline car. This is because of the additional energy required ...",
+          "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths",
+          "venue": "US EPA",
+          "year": "2025",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Some studies have shown that making a typical EV can create more carbon pollution than making a gasoline car.",
+          "supporting_assumptions": [
+            "Battery manufacturing is energy intensive",
+            "Energy used is not fully renewable"
+          ],
+          "refuting_assumptions": [
+            "If manufacturing emissions were negligible"
+          ],
+          "credibility_score": "High; EPA, federal agency, high impact"
+        },
+        {
+          "claim": "Electric vehicles have zero tailpipe emissions when running on electricity, but electricity production can generate emissions, so estimating cradle-to-grave emissions must account for both fuel-cycle emissions and vehicle-cycle emissions.",
+          "title": "Emissions from Electric Vehicles - Alternative Fuels Data Center",
+          "authors": "US Department of Energy",
+          "section": "Emissions from Electric Vehicles",
+          "paragraph": "All-electric vehicles, plug-in hybrid electric vehicles (PHEVs), and hybrid electric vehicles (HEVs) typically produce lower tailpipe emissions than conventional vehicles do, and zero tailpipe emissions when running only on electricity. Tailpipe emissions are only one factor in considering a vehicle's life cycle emissions; gasoline and electricity fuel pathways also have upstream emissions to consider, which include extracting, refining, producing, and transporting the fuel. Estimating cradle-to-grave emissions must account for both fuel-cycle emissions (also known as \"well to wheels\") and vehicle-cycle emissions (material and vehicle production as well as end of life). The combined emissions from vehicle and fuel production through vehicle decommissioning (i.e., recycling or scrapping) are referred to as life cycle or cradle-to-grave emissions.",
+          "url": "https://afdc.energy.gov/vehicles/electric-emissions",
+          "venue": "US Department of Energy",
+          "year": "2020",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Estimating cradle-to-grave emissions must account for both fuel-cycle emissions (also known as \"well to wheels\") and vehicle-cycle emissions (material and vehicle production as well as end of life).",
+          "supporting_assumptions": [
+            "Energy and material use for full vehicle lifecycle"
+          ],
+          "refuting_assumptions": [
+            "If both fuel and vehicle cycles had zero emissions"
+          ],
+          "credibility_score": "High; US government, widely cited"
+        },
+        {
+          "claim": "The majority of electric vehicles are charged using power generated by fossil fuels, which contributes to their overall environmental footprint.",
+          "title": "Electric vehicles scar the environment",
+          "authors": "Mackinac Center for Public Policy",
+          "section": "Main text",
+          "paragraph": "While electric vehicles may not emit carbon dioxide during normal operations, the power sources that charge their batteries commonly do. The majority of electric vehicles are charged using power generated by fossil fuels, according to the Institute for Energy Research, which points to a Cowboy State Daily article describing how powering the 98 charging bays in the world’s largest Tesla charging station “takes something solar can’t provide — diesel generators.”",
+          "url": "https://www.mackinac.org/blog/2023/electric-vehicles-scar-the-environment",
+          "venue": "Mackinac Center",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "The majority of electric vehicles are charged using power generated by fossil fuels, according to the Institute for Energy Research.",
+          "supporting_assumptions": [
+            "Grid remains largely fossil-fuel based",
+            "Charging infrastructure relies on current energy mix"
+          ],
+          "refuting_assumptions": [
+            "Widespread decarbonization of grid"
+          ],
+          "credibility_score": "Medium; 11 citations, policy analysis"
+        },
+        {
+          "claim": "MIT’s report shows how much these stats can swing based on a few key factors, such as the regional energy mix, and concludes it is difficult to find a comparison in which EVs fare worse than internal combustion but does not claim zero environmental impact.",
+          "title": "Are electric vehicles definitely better for the climate than gas-powered cars?",
+          "authors": "MIT Climate Portal",
+          "section": "Main text",
+          "paragraph": "MIT’s report shows how much these stats can swing based on a few key factors. For example, when the researchers used the average carbon intensity of America’s power grid, they found that a fully electric vehicle emits about 25 percent less carbon than a comparable hybrid car. But if they ran the numbers assuming the EV would charge up in hydropower-heavy Washington State, they found it would emit 61 percent less carbon than the hybrid. When they did the math for coal-heavy West Virginia, the EV actually created more carbon emissions than the hybrid, but still less than the gasoline car. In fact, Paltsev says, it’s difficult to find a comparison in which EVs fare worse than internal combustion.",
+          "url": "https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars",
+          "venue": "MIT Climate Portal",
+          "year": "2022",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "MIT’s report shows how much these stats can swing based on a few key factors.",
+          "supporting_assumptions": [
+            "Regional energy mix affects emissions",
+            "EVs still have nonzero impact"
+          ],
+          "refuting_assumptions": [
+            "All regions use only zero-emission sources"
+          ],
+          "credibility_score": "High; MIT Climate Portal, top US research institution"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Renewable energy deployment requires more mining overall.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Building clean energy technologies, like wind turbines and electric vehicles (EV), is generally more mineral intensive than using fossil fuels<a href=\"https://climate.mit.edu/ask-mit/how-does-environmental-impact-mining-clean-energy-metals-compare-mining-coal-oil-and-gas\">[2]</a>. Clean energy technologies, from wind and solar to hybrid and electric vehicles, help us slow down climate change, but they’re not inherently perfect—currently, they rely on critical minerals that are environmentally costly to mine<a href=\"https://climate.mit.edu/ask-mit/will-mining-resources-needed-clean-energy-cause-problems-environment\">[3]</a>. To be sure, mining for things other than coal, such as clean energy minerals, can also drain and contaminate local water sources<a href=\"https://www.wilderness.org/news/blog/faq-what-are-environmental-impacts-renewable-energy\">[1]</a>. As the clean energy transition moves forward, the demand for these materials will grow, with the International Energy Agency projecting that by 2040 the demand for copper could more than double, while the demand for lithium could grow over 40 times<a href=\"https://climate.mit.edu/ask-mit/how-does-environmental-impact-mining-clean-energy-metals-compare-mining-coal-oil-and-gas\">[2]</a>. Mark Jacobson, Stanford University professor, notes wind and solar require about one per cent of the mining fossil fuel energy needs in terms of materials mass, and, even if the world increased 12-fold the annual global production of all rare earths, lithium, cobalt, and copper, the metals produced would comprise just 3% of 2020 world coal production<a href=\"https://davidsuzuki.org/story/digging-into-the-mining-impacts-of-renewable-energy/\">[4]</a>.",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that renewable energy deployment requires more mining overall is partially true: while renewable technologies are more mineral intensive per unit than fossil fuel technologies and will drive increased mining of critical minerals, the overall material mass required for mining is substantially less than that needed for fossil fuel extraction. Additionally, renewable energy systems avoid the ongoing mining and combustion of fossil fuels, which is orders of magnitude larger by mass. Thus, the claim is accurate regarding mineral intensity and increased demand for specific materials, but inaccurate if 'more mining overall' refers to total excavated material or environmental impact.",
+      "subclaims": [
+        {
+          "claim": "Building clean energy technologies, like wind turbines and electric vehicles (EV), is generally more mineral intensive than using fossil fuels.",
+          "title": "How does the environmental impact of mining for clean energy metals compare to mining for coal, oil and gas?",
+          "authors": "Scott Odell (quoted), MIT Climate Portal staff",
+          "section": "How does the environmental impact of mining for clean energy metals compare to mining for coal, oil and gas?",
+          "paragraph": "Building clean energy technologies, like wind turbines and electric vehicles (EV), is generally more mineral intensive than using fossil fuels.\n1 An EV requires six times more minerals than a conventional car (not counting steel and aluminum), 2 while building a wind plant uses nine times more minerals than a gas-fired plant. 3\n\nCertain materials are particularly critical for the clean energy transition. These include lithium used in the batteries that run EVs, rare earth minerals in the magnets that allow wind turbines to make electricity, and copper, which is used for electricity transmission.",
+          "url": "https://climate.mit.edu/ask-mit/how-does-environmental-impact-mining-clean-energy-metals-compare-mining-coal-oil-and-gas",
+          "venue": "MIT Climate Portal",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Building clean energy technologies, like wind turbines and electric vehicles (EV), is generally more mineral intensive than using fossil fuels.",
+          "supporting_assumptions": [
+            "Mineral intensity is considered per unit of technology",
+            "Transition to renewables scales up this requirement"
+          ],
+          "refuting_assumptions": [
+            "Total mass or volume of all mining is more relevant than intensity per unit"
+          ],
+          "credibility_score": "High (MIT Climate Portal, referencing IEA and expert interviews)"
+        },
+        {
+          "claim": "Clean energy technologies, from wind and solar to hybrid and electric vehicles, help us slow down climate change, but they’re not inherently perfect—currently, they rely on critical minerals that are environmentally costly to mine.",
+          "title": "Will mining the resources needed for clean energy cause problems for the environment?",
+          "authors": "MIT Climate Portal staff",
+          "section": "# Will mining the resources needed for clean energy cause problems for the environment?",
+          "paragraph": "Clean energy technologies, from wind and solar to hybrid and electric vehicles, help us slow down climate change, but they’re not inherently perfect. Currently, they rely on critical minerals that are environmentally costly to mine. You’ve probably heard of some: lithium, copper, graphite, zinc, cobalt, copper, and nickel all make the list, alongside rare earth elements derived from mineral compounds.... That’s because mineral mining makes mountains of waste. In the U.S., copper mining makes up the largest percentage of metal mining and processing waste.",
+          "url": "https://climate.mit.edu/ask-mit/will-mining-resources-needed-clean-energy-cause-problems-environment",
+          "venue": "MIT Climate Portal",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Currently, they rely on critical minerals that are environmentally costly to mine.",
+          "supporting_assumptions": [
+            "Mining costliness refers to environmental costs"
+          ],
+          "refuting_assumptions": [
+            "Relative scale of mining to fossil fuels is ignored"
+          ],
+          "credibility_score": "High (MIT Climate Portal, expert consultation)"
+        },
+        {
+          "claim": "To be sure, mining for things other than coal, such as clean energy minerals, can also drain and contaminate local water sources.",
+          "title": "FAQ: What are the environmental impacts of renewable energy?",
+          "authors": "Wilderness Society staff",
+          "section": "What about clean energy minerals?",
+          "paragraph": "To be sure, mining for things other than coal, such as clean energy minerals, can also drain and contaminate local water sources. This means that if we're not careful, mining for renewable energy minerals like lithium, copper, graphite, zinc, cobalt and nickel can also come at a cost to public waters.",
+          "url": "https://www.wilderness.org/news/blog/faq-what-are-environmental-impacts-renewable-energy",
+          "venue": "Wilderness Society",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "To be sure, mining for things other than coal, such as clean energy minerals, can also drain and contaminate local water sources.",
+          "supporting_assumptions": [
+            "Water impacts from mining are significant"
+          ],
+          "refuting_assumptions": [
+            "Does not compare scale to fossil fuel extraction impacts"
+          ],
+          "credibility_score": "Medium (environmental NGO)"
+        },
+        {
+          "claim": "As the clean energy transition moves forward, the demand for these materials will grow, with the International Energy Agency projecting that by 2040 the demand for copper could more than double, while the demand for lithium could grow over 40 times.",
+          "title": "How does the environmental impact of mining for clean energy metals compare to mining for coal, oil and gas?",
+          "authors": "Scott Odell (quoted), MIT Climate Portal staff",
+          "section": "How does the environmental impact of mining for clean energy metals compare to mining for coal, oil and gas?",
+          "paragraph": "As the clean energy transition moves forward, the demand for these materials will grow. Projections from the International Energy Agency (IEA) suggest that by 2040 the demand for copper could more than double, while the demand for lithium could grow over 40 times—if, that is, the world builds enough clean energy to meet the international climate goals set by the 2015 Paris Agreement.",
+          "url": "https://climate.mit.edu/ask-mit/how-does-environmental-impact-mining-clean-energy-metals-compare-mining-coal-oil-and-gas",
+          "venue": "MIT Climate Portal",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Projections from the International Energy Agency (IEA) suggest that by 2040 the demand for copper could more than double, while the demand for lithium could grow over 40 times.",
+          "supporting_assumptions": [
+            "Material demand is a proxy for increased mining"
+          ],
+          "refuting_assumptions": [
+            "Material demand growth does not directly equate to higher total mining than in fossil fuel systems"
+          ],
+          "credibility_score": "High (MIT Climate Portal, citing IEA projections)"
+        },
+        {
+          "claim": "Mark Jacobson, Stanford University professor, notes wind and solar require about one per cent of the mining fossil fuel energy needs in terms of materials mass, and, even if the world increased 12-fold the annual global production of all rare earths, lithium, cobalt, and copper, the metals produced would comprise just 3% of 2020 world coal production.",
+          "title": "Digging into the mining impacts of renewable energy",
+          "authors": "David Suzuki Foundation staff (citing Mark Jacobson)",
+          "section": "What about mining for renewables?",
+          "paragraph": "Mark Jacobson, Stanford University professor and author of\nNo Miracles Needed: How Today’s Technology Can Save Our Climate and Clean Our Air, says wind and solar require about one per cent of the mining fossil fuel energy needs in terms of materials mass.\n\nEven if the world increased 12-fold the annual global production of all rare earths, lithium, cobalt, and even copper, the metals produced would comprise just 3% of 2020 world coal production.",
+          "url": "https://davidsuzuki.org/story/digging-into-the-mining-impacts-of-renewable-energy/",
+          "venue": "David Suzuki Foundation",
+          "year": "2023",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Mark Jacobson, Stanford University professor, notes wind and solar require about one per cent of the mining fossil fuel energy needs in terms of materials mass, and, even if the world increased 12-fold the annual global production of all rare earths, lithium, cobalt, and copper, the metals produced would comprise just 3% of 2020 world coal production.",
+          "supporting_assumptions": [
+            "Total mining is compared by mass"
+          ],
+          "refuting_assumptions": [
+            "Material-specific mining is more relevant to claim than total mass"
+          ],
+          "credibility_score": "High (quoting Stanford professor, referencing global mining data)"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Nuclear waste can't be made safe for the long term.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Storage of radioactive waste has been demonstrated to be safe over some decades and can be relied upon to provide safety as long as active surveillance and maintenance is ensured.<a href=\"https://www-pub.iaea.org/MTCD/Publications/PDF/LTS-RW_web.pdf\">[1]</a> The safe, environmentally-sound disposal of HLW is technologically proven, with international scientific consensus on deep geological repositories.<a href=\"https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/radioactive-wastes-myths-and-realities\">[2]</a> Deep geological disposal is widely agreed to be the best solution for final disposal of the most radioactive waste produced.<a href=\"https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/storage-and-disposal-of-radioactive-waste\">[3]</a> Nuclear waste is radioactive and dangerous for around 300,000 years, but it is relatively low in volume.<a href=\"https://ant.epri.com/article/manage-nuclear-waste\">[4]</a> Currently, in the United States, all nuclear waste in the form of spent fuel is kept in temporary storage in dry casks or wet pools until a longer-term solution is agreed upon.<a href=\"https://ant.epri.com/article/manage-nuclear-waste\">[4]</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "While nuclear waste poses a long-term hazard, reliable storage and disposal methods such as deep geological repositories are technically feasible and have international scientific consensus for safety; however, challenges remain regarding implementation and public acceptance, and permanent long-term solutions are not yet operational everywhere.",
+      "subclaims": [
+        {
+          "claim": "Storage of radioactive waste has been demonstrated to be safe over some decades and can be relied upon to provide safety as long as active surveillance and maintenance is ensured.",
+          "title": "Long term Storage of RW",
+          "authors": "International Atomic Energy Agency",
+          "section": "3.1. SAFETY",
+          "paragraph": "Storage of radioactive waste has been demonstrated to be safe over some decades and can be relied upon to provide safety as long as active surveillance and maintenance is ensured. In contrast, geological disposal promises long term safety without surveillance and maintenance.",
+          "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/LTS-RW_web.pdf",
+          "venue": "International Atomic Energy Agency",
+          "year": "2017",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "Storage of radioactive waste has been demonstrated to be safe over some decades and can be relied upon to provide safety as long as active surveillance and maintenance is ensured.",
+          "supporting_assumptions": [
+            "Maintenance and monitoring are maintained",
+            "Facilities continue to be operated properly"
+          ],
+          "refuting_assumptions": [
+            "Long-term societal stability required",
+            "Human or natural interference risks remain"
+          ],
+          "credibility_score": "Cited by >100, IAEA flagship document"
+        },
+        {
+          "claim": "The safe, environmentally-sound disposal of HLW is technologically proven, with international scientific consensus on deep geological repositories.",
+          "title": "Radioactive Waste – Myths and Realities",
+          "authors": "World Nuclear Association",
+          "section": "Main text",
+          "paragraph": "The safe, environmentally-sound disposal of HLW is technologically proven, with international scientific consensus on deep geological repositories. Such projects are well advanced in some countries, such as Finland and Sweden.",
+          "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/radioactive-wastes-myths-and-realities",
+          "venue": "World Nuclear Association",
+          "year": "2025",
+          "contribution": "completely refutes",
+          "relevant_sentence": "The safe, environmentally-sound disposal of HLW is technologically proven, with international scientific consensus on deep geological repositories.",
+          "supporting_assumptions": [
+            "Engineering standards are upheld",
+            "Repositories are carefully sited and managed"
+          ],
+          "refuting_assumptions": [
+            "Long-term geological events unforeseen",
+            "Societal continuity required for oversight"
+          ],
+          "credibility_score": "High, referenced by global policy documents"
+        },
+        {
+          "claim": "Deep geological disposal is widely agreed to be the best solution for final disposal of the most radioactive waste produced.",
+          "title": "Storage and Disposal of Radioactive Waste",
+          "authors": "World Nuclear Association",
+          "section": "Storage and Disposal of Radioactive Waste",
+          "paragraph": "Deep geological disposal is widely agreed to be the best solution for final disposal of the most radioactive waste produced.",
+          "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/storage-and-disposal-of-radioactive-waste",
+          "venue": "World Nuclear Association",
+          "year": "2024",
+          "contribution": "completely refutes",
+          "relevant_sentence": "Deep geological disposal is widely agreed to be the best solution for final disposal of the most radioactive waste produced.",
+          "supporting_assumptions": [
+            "Repository barriers remain intact",
+            "Long-term monitoring and modeling are accurate"
+          ],
+          "refuting_assumptions": [
+            "Unexpected geological changes occur",
+            "Institutional failure results in neglect"
+          ],
+          "credibility_score": "WNA, cited by many international agencies"
+        },
+        {
+          "claim": "Nuclear waste is radioactive and dangerous for around 300,000 years, but it is relatively low in volume.",
+          "title": "How to Manage Nuclear Waste | EPRI",
+          "authors": "Electric Power Research Institute",
+          "section": "Key Takeaways",
+          "paragraph": "Nuclear waste is radioactive and dangerous for around 300,000 years, but it is relatively low in volume.",
+          "url": "https://ant.epri.com/article/manage-nuclear-waste",
+          "venue": "Electric Power Research Institute",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Nuclear waste is radioactive and dangerous for around 300,000 years, but it is relatively low in volume.",
+          "supporting_assumptions": [
+            "Long-lived isotopes persist",
+            "Waste management systems are required for millennia"
+          ],
+          "refuting_assumptions": [
+            "Potential for future recycling",
+            "New technology reduces longevity"
+          ],
+          "credibility_score": "EPRI flagship, citation in U.S. NRC reports"
+        },
+        {
+          "claim": "Currently, in the United States, all nuclear waste in the form of spent fuel is kept in temporary storage in dry casks or wet pools until a longer-term solution is agreed upon.",
+          "title": "How to Manage Nuclear Waste | EPRI",
+          "authors": "Electric Power Research Institute",
+          "section": "Key Takeaways",
+          "paragraph": "Currently, in the United States, all nuclear waste in the form of spent fuel is kept in temporary storage in dry casks or wet pools until a longer-term solution is agreed upon.",
+          "url": "https://ant.epri.com/article/manage-nuclear-waste",
+          "venue": "Electric Power Research Institute",
+          "year": "2022",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Currently, in the United States, all nuclear waste in the form of spent fuel is kept in temporary storage in dry casks or wet pools until a longer-term solution is agreed upon.",
+          "supporting_assumptions": [
+            "Permanent repository not yet implemented in US",
+            "Political and social barriers delay solutions"
+          ],
+          "refuting_assumptions": [
+            "Other countries progressing with permanent disposal",
+            "Temporary storage remains robust"
+          ],
+          "credibility_score": "EPRI, industry-cited, high impact"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Higher education is essential for social mobility.",
+    "num_articles": 5,
+    "output": {
+      "summary": "A college degree significantly improves one’s earning potential and employment opportunities, with bachelor’s degree earners averaging $1.2 million more in lifetime earnings than those with only a high school diploma, affirming higher education as a driving force in economic mobility, especially for marginalized communities.<a href=\"https://hcmstrategists.com/resources/how-institutions-can-increase-social-mobility-for-key-populations-through-strategic-data-use\">[1]</a> Postsecondary attainment remains one of the most secure pathways to financial stability, but institutions must address disparities in career and economic outcomes to maximize social mobility.<a href=\"https://www.ihep.org/publication/how-institutions-can-increase-social-mobility-through-strategic-data-use/\">[2]</a> Historically in the US, higher education has been a key factor for social mobility, with bachelor’s degree holders earning on average $765,000 more in their lifetimes than those without.<a href=\"https://unity.edu/articles/education-as-social-mobility/\">[3]</a> The effect of higher education on social mobility depends on both the effect of family income on schooling and the effect of schooling on offspring income, highlighting the complex nature of education’s impact on economic mobility.<a href=\"https://files.eric.ed.gov/fulltext/EJ1042187.pdf\">[4]</a> Lessons from Minority-Serving Institutions show that strategic interventions and targeted data use can boost social mobility outcomes for underrepresented groups, reinforcing the essential role of higher education in advancing economic opportunity.<a href=\"https://www.ihep.org/publication/how-institutions-can-increase-social-mobility-through-strategic-data-use/\">[2]</a>",
+      "accuracy": "Mostly True",
+      "reason_for_accuracy": "While the evidence overwhelmingly supports higher education as a major driver of social mobility, several articles highlight the persistence of structural barriers and disparities that limit access and outcomes, particularly for underrepresented and low-income populations. This indicates that higher education is essential but not sufficient on its own; its effectiveness depends on addressing these systemic challenges.",
+      "subclaims": [
+        {
+          "claim": "A college degree significantly improves one’s earning potential and employment opportunities, with bachelor’s degree earners averaging $1.2 million more in lifetime earnings than those with only a high school diploma, affirming higher education as a driving force in economic mobility, especially for marginalized communities.",
+          "title": "How Institutions Can Increase Social Mobility for Key Populations through Strategic Data Use",
+          "authors": "HCM Strategists",
+          "section": "The Case for Equitable Strategic Data in Higher Education",
+          "paragraph": "A college degree significantly improves one’s earning potential and employment opportunities. In fact, bachelor’s degree earners on average make $1.2 million in additional earnings over their lifetime compared to their peers who have only a high school degree. Similarly, a study by the U.S. Department of Education’s National Center for Education Statistics shows higher educational attainment overall leads to higher median earnings. More specifically, in 2021 the median earnings of associate degree holders were 13 percent higher than the median earnings of high school completers. These data affirm higher education as a driving force in creating economic mobility. This is especially true for Black, Latinx, Indigenous American learners and other students whose communities are marginalized.",
+          "url": "https://hcmstrategists.com/resources/how-institutions-can-increase-social-mobility-for-key-populations-through-strategic-data-use",
+          "venue": "HCM Strategists",
+          "year": "2025",
+          "contribution": "completely supports",
+          "relevant_sentence": "A college degree significantly improves one’s earning potential and employment opportunities. ... These data affirm higher education as a driving force in creating economic mobility.",
+          "supporting_assumptions": [
+            "The labor market continues to value degrees",
+            "Marginalized groups gain proportionally from degree attainment"
+          ],
+          "refuting_assumptions": [
+            "Degree inflation lessens advantage",
+            "Economic shifts reduce degree value"
+          ],
+          "credibility_score": "Institutional report, references US Department of Education data"
+        },
+        {
+          "claim": "Postsecondary attainment remains one of the most secure pathways to financial stability, but institutions must address disparities in career and economic outcomes to maximize social mobility.",
+          "title": "How Institutions Can Increase Social Mobility for Key Populations through Strategic Data Use",
+          "authors": "IHEP, Center on Education and the Workforce, HCM Strategists, American Institutes for Research",
+          "section": "Executive Summary",
+          "paragraph": "Postsecondary attainment remains one of the most secure pathways to financial stability. Yet, there are significant disparities in students’ career and economic outcomes based on race and ethnicity. High-quality disaggregated data is one of the most critical tools institutions have to illuminate these disparities, create targeted intervention, and drive evidence-based decision-making. Unfortunately, many institutions still face barriers to establishing a strong culture of data use...",
+          "url": "https://www.ihep.org/publication/how-institutions-can-increase-social-mobility-through-strategic-data-use/",
+          "venue": "Institute for Higher Education Policy (IHEP)",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Postsecondary attainment remains one of the most secure pathways to financial stability.",
+          "supporting_assumptions": [
+            "Data-driven interventions can reduce disparities",
+            "Access to and completion of higher education remains stable"
+          ],
+          "refuting_assumptions": [
+            "Persistent disparities negate financial gains for some groups"
+          ],
+          "credibility_score": "IHEP institutional publication, uses national data"
+        },
+        {
+          "claim": "Historically in the US, higher education has been a key factor for social mobility, with bachelor’s degree holders earning on average $765,000 more in their lifetimes than those without.",
+          "title": "The Positive Impact Of Higher Education As Social Mobility",
+          "authors": "Unity Environmental University",
+          "section": "The Role Of Higher Education In Social Mobility",
+          "paragraph": "Social mobility and education go hand in hand. People with a bachelor’s degree earn more money than those without – $765,000 more on average in their lifetime. They are also exposed to new people, new ideas, and new opportunities. However, unless the barriers to higher education are addressed, a bachelor’s degree will remain out of reach for many young people from low-income families.",
+          "url": "https://unity.edu/articles/education-as-social-mobility/",
+          "venue": "Unity Environmental University",
+          "year": "2023",
+          "contribution": "completely supports",
+          "relevant_sentence": "People with a bachelor’s degree earn more money than those without – $765,000 more on average in their lifetime.",
+          "supporting_assumptions": [
+            "Income premium for college degrees persists",
+            "Data is representative across US socioeconomic groups"
+          ],
+          "refuting_assumptions": [
+            "Degree cost negates financial gain for some"
+          ],
+          "credibility_score": "University publication, references Education Finance and Policy Journal"
+        },
+        {
+          "claim": "The effect of higher education on social mobility depends on both the effect of family income on schooling and the effect of schooling on offspring income, highlighting the complex nature of education’s impact on economic mobility.",
+          "title": "The Role of Higher Education in Social Mobility",
+          "authors": "Christopher Avery and Sarah Turner",
+          "section": "On Higher Education and Social Mobility: What Do We Know?",
+          "paragraph": "The effect of higher education on social mobility depends on both the effect of family income on schooling and the effect of schooling on offspring income. ... Each is important for assessing the overall effect of higher education on both economic inequality and mobility.",
+          "url": "https://files.eric.ed.gov/fulltext/EJ1042187.pdf",
+          "venue": "ERIC/Journal of Economic Perspectives",
+          "year": "2012",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "The effect of higher education on social mobility depends on both the effect of family income on schooling and the effect of schooling on offspring income.",
+          "supporting_assumptions": [
+            "Family background influences educational attainment",
+            "College provides a meaningful income boost"
+          ],
+          "refuting_assumptions": [
+            "Educational returns are not uniform across backgrounds"
+          ],
+          "credibility_score": "Peer-reviewed journal article, referenced by >150 scholars"
+        },
+        {
+          "claim": "Lessons from Minority-Serving Institutions show that strategic interventions and targeted data use can boost social mobility outcomes for underrepresented groups, reinforcing the essential role of higher education in advancing economic opportunity.",
+          "title": "How Institutions Can Increase Social Mobility for Key Populations through Strategic Data Use",
+          "authors": "IHEP, Center on Education and the Workforce, HCM Strategists, American Institutes for Research",
+          "section": "Case Study Findings",
+          "paragraph": "This case study also highlights lessons from the field gleaned from interviews with leaders at Minority-Serving Institutions including Florida A&M University, Fort Lewis College, University of Illinois Chicago, and Rutgers University-Newark — institutions that succeed in creating economic opportunity and social mobility for their students, including those historically underrepresented in higher education.",
+          "url": "https://www.ihep.org/publication/how-institutions-can-increase-social-mobility-through-strategic-data-use/",
+          "venue": "Institute for Higher Education Policy (IHEP)",
+          "year": "2024",
+          "contribution": "completely supports",
+          "relevant_sentence": "This case study ... highlights lessons ... from Minority-Serving Institutions ... that succeed in creating economic opportunity and social mobility...",
+          "supporting_assumptions": [
+            "Targeted interventions are scalable",
+            "Strategies are widely applicable"
+          ],
+          "refuting_assumptions": [
+            "Specific institutional context not generalizable"
+          ],
+          "credibility_score": "IHEP institutional publication, based on case studies"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Gentrification benefits everyone in the neighborhood.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Gentrification can also benefit neighborhood residents by lowering poverty rates and exposing residents to more opportunity.<a>https://nlihc.org/resource/gentrification-and-neighborhood-revitalization-whats-difference</a> While these effects can be beneficial, the gentrification process becomes detrimental when it forces original residents to leave the neighborhood through exponentially increasing property prices, coercion, or buyouts.<a>https://www.law.georgetown.edu/poverty-journal/blog/examining-the-negative-impacts-of-gentrification/</a> Statewide, gentrified neighborhoods have become more racially and economically diverse compared to those that did not gentrify, but the analysis finds only modest changes in local schools.<a>https://seis.ucla.edu/news/crp-research-examines-impact-of-gentrification-on-schoolspotential/</a> Hypothesis 5: Among gentrifying Black neighborhoods, the rate of home value appreciation is higher in those experiencing increases in the proportion of White residents.<a>https://journals.sagepub.com/doi/10.1177/23780231241234645</a> There can be benefits to gentrification, but only to long-term residents who are not pushed out.<a>https://nlihc.org/resource/gentrification-and-neighborhood-revitalization-whats-difference</a>",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "The claim that gentrification benefits everyone in the neighborhood is only partially accurate: while some existing residents who remain may benefit from reduced poverty, enhanced services, and increased diversity, many original residents—especially renters and lower-income groups—frequently experience displacement, loss of cultural identity, or limited benefit from economic changes. Additionally, home value appreciation is not evenly distributed across racial or economic groups. Thus, evidence suggests gentrification produces mixed outcomes rather than universal benefit.",
+      "subclaims": [
+        {
+          "claim": "Gentrification can also benefit neighborhood residents by lowering poverty rates and exposing residents to more opportunity.",
+          "title": "Gentrification and Neighborhood Revitalization: WHAT'S THE ...",
+          "authors": "NLIHC editors",
+          "section": "Main body",
+          "paragraph": "Gentrification can also benefit neighborhood residents by lowering poverty rates and exposing residents to more opportunity. Recent studies found that public housing residents in gentrifying neighborhoods are exposed to less violent crime, are more often employed, and have higher incomes and greater educational attainment than their counterparts in low-income neighborhoods.",
+          "url": "https://nlihc.org/resource/gentrification-and-neighborhood-revitalization-whats-difference",
+          "venue": "National Low Income Housing Coalition",
+          "year": "2019",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Gentrification can also benefit neighborhood residents by lowering poverty rates and exposing residents to more opportunity.",
+          "supporting_assumptions": [
+            "Residents are not displaced",
+            "Development is inclusive"
+          ],
+          "refuting_assumptions": [
+            "High rates of displacement",
+            "Benefits accrue only to newcomers"
+          ],
+          "credibility_score": "N/A"
+        },
+        {
+          "claim": "While these effects can be beneficial, the gentrification process becomes detrimental when it forces original residents to leave the neighborhood through exponentially increasing property prices, coercion, or buyouts.",
+          "title": "Examining the Negative Impacts of Gentrification - Georgetown Law",
+          "authors": "Staff, Georgetown Journal on Poverty Law & Policy",
+          "section": "Gentrification's Effects",
+          "paragraph": "While these effects can be beneficial, the gentrification process becomes detrimental when it forces original residents to leave the neighborhood through exponentially increasing property prices, coercion, or buyouts.",
+          "url": "https://www.law.georgetown.edu/poverty-journal/blog/examining-the-negative-impacts-of-gentrification/",
+          "venue": "Georgetown Journal on Poverty Law & Policy Blog",
+          "year": "2017",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "While these effects can be beneficial, the gentrification process becomes detrimental when it forces original residents to leave the neighborhood through exponentially increasing property prices, coercion, or buyouts.",
+          "supporting_assumptions": [
+            "Displacement occurs",
+            "Not all residents are able to remain"
+          ],
+          "refuting_assumptions": [
+            "No displacement",
+            "Economic benefits are not universally offset by harm"
+          ],
+          "credibility_score": "N/A"
+        },
+        {
+          "claim": "Statewide, gentrified neighborhoods have become more racially and economically diverse compared to those that did not gentrify, but the analysis finds only modest changes in local schools.",
+          "title": "New Research Examines Impact of Gentrification on Schools ...",
+          "authors": "Jennifer B. Ayscue, John McDonald",
+          "section": "Main findings",
+          "paragraph": "Statewide, gentrified neighborhoods have become more racially and economically diverse compared to those that did not gentrify, but the analysis finds only modest changes in local schools.",
+          "url": "https://seis.ucla.edu/news/crp-research-examines-impact-of-gentrification-on-schoolspotential/",
+          "venue": "UCLA Civil Rights Project",
+          "year": "2023",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Statewide, gentrified neighborhoods have become more racially and economically diverse compared to those that did not gentrify, but the analysis finds only modest changes in local schools.",
+          "supporting_assumptions": [
+            "Diversity is valued as a benefit",
+            "School change is not the sole metric of impact"
+          ],
+          "refuting_assumptions": [
+            "Modest changes in key services limit benefits",
+            "Diversity does not guarantee equity"
+          ],
+          "credibility_score": "N/A"
+        },
+        {
+          "claim": "Hypothesis 5: Among gentrifying Black neighborhoods, the rate of home value appreciation is higher in those experiencing increases in the proportion of White residents.",
+          "title": "Gentrification and Neighborhood Housing Wealth",
+          "authors": "Samuel H. Kye",
+          "section": "Hypotheses",
+          "paragraph": "*Hypothesis 5*: Among gentrifying Black neighborhoods, the rate of home value appreciation is higher in those experiencing increases in the proportion of White residents.",
+          "url": "https://journals.sagepub.com/doi/10.1177/23780231241234645",
+          "venue": "Socius",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Hypothesis 5: Among gentrifying Black neighborhoods, the rate of home value appreciation is higher in those experiencing increases in the proportion of White residents.",
+          "supporting_assumptions": [
+            "Home value appreciation is viewed as a benefit",
+            "Demographic shifts are accepted as neutral or positive"
+          ],
+          "refuting_assumptions": [
+            "Appreciation benefits only certain groups",
+            "Racial transitions cause other harms"
+          ],
+          "credibility_score": "N/A"
+        },
+        {
+          "claim": "There can be benefits to gentrification, but only to long-term residents who are not pushed out.",
+          "title": "Gentrification and Neighborhood Revitalization: WHAT'S THE ...",
+          "authors": "NLIHC editors",
+          "section": "Main body",
+          "paragraph": "There can be benefits to gentrification, but only to long-term residents who are not pushed out. Development without displacement is the key. Fighting against displacement rather than fighting against development should be the focus.",
+          "url": "https://nlihc.org/resource/gentrification-and-neighborhood-revitalization-whats-difference",
+          "venue": "National Low Income Housing Coalition",
+          "year": "2019",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "There can be benefits to gentrification, but only to long-term residents who are not pushed out.",
+          "supporting_assumptions": [
+            "Long-term residents are able to remain",
+            "Benefits accrue to those able to stay"
+          ],
+          "refuting_assumptions": [
+            "Displacement undermines benefit",
+            "Short-term residents or newcomers are primary beneficiaries"
+          ],
+          "credibility_score": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "School uniforms reduce bullying and misbehavior.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Wearing a school uniform helps reduce bullying, according to a new study which questioned teachers, parents and students that’s released today (29 June 2017). The study found nine out of ten teachers (89%) believe school uniforms play an active role in reducing bullying.<a href=\"https://www.trutexbtru2u.co.uk/research-shows-wearing-school-uniform-helps-reduce-bullying/\">source</a>. One of the significant benefits of school uniforms is their ability to reduce peer pressure and instances of bullying related to clothing.<a href=\"https://www.uniformmarket.com/statistics/pros-and-cons-of-school-uniforms\">source</a>. According to his studies, he found that there is no evidence that school uniforms reduce bullying statistics.<a href=\"https://www.ourfamilyworld.com/bullying-and-cyberbullying/bullying-prevention-bullying-and-cyberbullying/school-uniforms-and-bullying-statistics-they-dont-want-you-to-see/\">source</a>. School uniforms don't seem to have any effect on young students' behavior or attendance overall, a new national study found.<a href=\"https://ehe.osu.edu/news/listing/school-uniforms-don-t-improve-child-behavior-study-finds\">source</a>. School uniforms create a level playing field among students, reducing peer pressure and bullying.<a href=\"https://weemeses.lausd.org/apps/pages/index.jsp?uREC_ID=3795362&type=d&pREC_ID=2453435\">source</a>.",
+      "accuracy": "Partially True",
+      "reason_for_accuracy": "While several studies and teacher surveys report that school uniforms are perceived to reduce bullying and misbehavior by creating a level playing field and reducing peer pressure, other research and personal accounts find no clear evidence that uniforms directly reduce bullying or improve behavior. The evidence is mixed, showing perception of benefit rather than conclusive causal effects.",
+      "subclaims": [
+        {
+          "claim": "Wearing a school uniform helps reduce bullying, according to a new study which questioned teachers, parents and students that’s released today (29 June 2017). The study found nine out of ten teachers (89%) believe school uniforms play an active role in reducing bullying.",
+          "title": "Research shows wearing a school uniform helps to reduce bullying",
+          "authors": "Trutex and The Diana Award",
+          "section": "Research shows wearing a school uniform helps to reduce bullying",
+          "paragraph": "The study found nine out of ten teachers (89%) believe school uniforms play an active role in reducing bullying. 95% say uniforms help students “fit-in” and 94% believe parents and the local community and even potential students look with pride on a school where pupils wear uniforms.",
+          "url": "https://www.trutexbtru2u.co.uk/research-shows-wearing-school-uniform-helps-reduce-bullying/",
+          "venue": "Trutex Research 2017",
+          "year": "2017",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "The study found nine out of ten teachers (89%) believe school uniforms play an active role in reducing bullying.",
+          "supporting_assumptions": [
+            "Teacher perceptions are reflective of actual bullying incidents"
+          ],
+          "refuting_assumptions": [
+            "Perceptions may not equal causation"
+          ],
+          "credibility_score": "Widely cited survey among educators"
+        },
+        {
+          "claim": "One of the significant benefits of school uniforms is their ability to reduce peer pressure and instances of bullying related to clothing.",
+          "title": "17+ Pros and Cons of School Uniforms (2025)",
+          "authors": "UniformMarket editors",
+          "section": "They Can Reduce Peer Pressure And Bullying",
+          "paragraph": "One of the significant benefits of school uniforms is their ability to reduce peer pressure and instances of bullying related to clothing. By creating a level playing field, uniforms minimize the visible economic disparities between students. A study conducted by the National Association of Elementary School Principals revealed that 70% of schools with uniforms saw a decrease in bullying incidents.",
+          "url": "https://www.uniformmarket.com/statistics/pros-and-cons-of-school-uniforms",
+          "venue": "UniformMarket, 2025",
+          "year": "2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "One of the significant benefits of school uniforms is their ability to reduce peer pressure and instances of bullying related to clothing.",
+          "supporting_assumptions": [
+            "Reduced visible economic disparity reduces bullying"
+          ],
+          "refuting_assumptions": [
+            "Bullying has other causes beyond clothing"
+          ],
+          "credibility_score": "Cites National Association of Elementary School Principals"
+        },
+        {
+          "claim": "According to his studies, he found that there is no evidence that school uniforms reduce bullying statistics.",
+          "title": "School Uniforms And Bullying Statistics You Need To Know",
+          "authors": "Article author (OurFamilyWorld)",
+          "section": "Personal experience and studies",
+          "paragraph": "According to his studies, he found that there is no evidence that school uniforms reduce bullying statistics. The high school and middle school I went to had school uniforms. I can tell you from personal experience that school uniforms do not reduce bullying. What reduces bullying are teachers that know how to prevent and stop bullying.",
+          "url": "https://www.ourfamilyworld.com/bullying-and-cyberbullying/bullying-prevention-bullying-and-cyberbullying/school-uniforms-and-bullying-statistics-they-dont-want-you-to-see/",
+          "venue": "OurFamilyWorld, 2018",
+          "year": "2018",
+          "contribution": "completely refutes",
+          "relevant_sentence": "According to his studies, he found that there is no evidence that school uniforms reduce bullying statistics.",
+          "supporting_assumptions": [
+            "Teacher intervention more critical than uniforms"
+          ],
+          "refuting_assumptions": [
+            "Uniforms inherently reduce bullying"
+          ],
+          "credibility_score": "Personal account with referenced studies"
+        },
+        {
+          "claim": "School uniforms don't seem to have any effect on young students' behavior or attendance overall, a new national study found.",
+          "title": "School uniforms don't improve child behavior, study finds",
+          "authors": "Ohio State University research study",
+          "section": "Summary of study findings",
+          "paragraph": "School uniforms don't seem to have any effect on young students' behavior or attendance overall, a new national study found.",
+          "url": "https://ehe.osu.edu/news/listing/school-uniforms-don-t-improve-child-behavior-study-finds",
+          "venue": "Ohio State University, 2022",
+          "year": "2022",
+          "contribution": "completely refutes",
+          "relevant_sentence": "School uniforms don't seem to have any effect on young students' behavior or attendance overall, a new national study found.",
+          "supporting_assumptions": [
+            "Uniform policies alone do not drive behavior change"
+          ],
+          "refuting_assumptions": [
+            "Uniforms improve behavior and attendance"
+          ],
+          "credibility_score": "Peer-reviewed university research"
+        },
+        {
+          "claim": "School uniforms create a level playing field among students, reducing peer pressure and bullying.",
+          "title": "School Uniforms – Students",
+          "authors": "Los Angeles Unified School District",
+          "section": "School uniform policy description",
+          "paragraph": "School uniforms create a level playing field among students, reducing peer pressure and bullying. When all students are dressed alike, competition between students is lessened and students can focus on learning rather than fashion.",
+          "url": "https://weemeses.lausd.org/apps/pages/index.jsp?uREC_ID=3795362&type=d&pREC_ID=2453435",
+          "venue": "LAUSD, school informational page",
+          "year": "Accessed 2025",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "School uniforms create a level playing field among students, reducing peer pressure and bullying.",
+          "supporting_assumptions": [
+            "Uniformity reduces social competition"
+          ],
+          "refuting_assumptions": [
+            "Other factors influence bullying more strongly"
+          ],
+          "credibility_score": "Official educational institution statements"
+        }
+      ]
+    }
+  },
+  {
+    "claim": "Autonomous weapons should be banned under international law.",
+    "num_articles": 5,
+    "output": {
+      "summary": "Human Rights Watch and IHRC endorse the call, supported by at least 129 countries, for the urgent negotiation and adoption of a legally binding instrument to prohibit and regulate autonomous weapons systems.<a>https://www.hrw.org/report/2025/04/28/hazard-human-rights/autonomous-weapons-systems-and-digital-decision-making</a> The United Nations (UN) General Assembly adopted a resolution on Lethal Autonomous Weapons Systems with overwhelming support, reflecting heightened concern about the development and use of such weapons and mentioning the potential prohibition of some types under international law.<a>https://www.asil.org/insights/volume/29/issue/1</a> The UN secretary-general has called for the conclusion, by 2026, of a legally binding instrument to prohibit lethal autonomous weapons systems that function without human control or oversight and that cannot comply with international humanitarian law.<a>https://www.lawfaremedia.org/article/considering-a-legally-binding-instrument-on-autonomous-weapons</a> Civil society organizations and international bodies have criticized the lack of a binding norm and have strongly backed the movement to ban autonomous weapons, with recent UNGA resolutions signaling a broader intent to pursue international legal regulation.<a>https://carnegieendowment.org/research/2024/08/understanding-the-global-debate-on-lethal-autonomous-weapons-systems-an-indian-perspective?lang=en</a> Despite converging calls for a ban, some militarily significant states continue to argue that existing international humanitarian law is sufficient, illustrating the ongoing complexity and debate surrounding the legal status of autonomous weapons.<a>https://carnegieendowment.org/research/2024/08/understanding-the-global-debate-on-lethal-autonomous-weapons-systems-an-indian-perspective?lang=en</a>",
+      "accuracy": "Mostly True",
+      "reason_for_accuracy": "There is strong evidence of growing international support for a ban or strict regulation of autonomous weapons, including UN resolutions, major NGO campaigns, and calls from the UN secretary-general. However, the claim is not yet entirely realized due to continued opposition from some key states and the absence of a universally adopted, binding treaty. The evidence demonstrates clear momentum and support for a ban under international law but also highlights unresolved debate and resistance that temper the claim's absolute truth.",
+      "subclaims": [
+        {
+          "claim": "Human Rights Watch and IHRC endorse the call, supported by at least 129 countries, for the urgent negotiation and adoption of a legally binding instrument to prohibit and regulate autonomous weapons systems.",
+          "title": "A Hazard to Human Rights: Autonomous Weapons Systems and Digital Decision-Making",
+          "authors": "Human Rights Watch and Harvard Law School’s International Human Rights Clinic",
+          "section": "Essential Treaty Elements",
+          "paragraph": "To address these concerns, Human Rights Watch and IHRC endorse the call, supported by at least 129 countries, for the urgent negotiation and adoption of a legally binding instrument to prohibit and regulate autonomous weapons systems.",
+          "url": "https://www.hrw.org/report/2025/04/28/hazard-human-rights/autonomous-weapons-systems-and-digital-decision-making",
+          "venue": "Human Rights Watch",
+          "year": "2025",
+          "contribution": "completely supports",
+          "relevant_sentence": "Human Rights Watch and IHRC endorse the call, supported by at least 129 countries, for the urgent negotiation and adoption of a legally binding instrument to prohibit and regulate autonomous weapons systems.",
+          "supporting_assumptions": [
+            "International advocacy signals widespread support for a ban.",
+            "A legally binding instrument implies international law action."
+          ],
+          "refuting_assumptions": [
+            "Support by 129 countries does not guarantee global consensus.",
+            "Endorsement does not equal legal enactment."
+          ],
+          "credibility_score": "Report by leading NGOs; wide citation in policy debates."
+        },
+        {
+          "claim": "The United Nations (UN) General Assembly adopted a resolution on Lethal Autonomous Weapons Systems with overwhelming support, reflecting heightened concern about the development and use of such weapons and mentioning the potential prohibition of some types under international law.",
+          "title": "Lethal Autonomous Weapons Systems & International Law: Growing Momentum Towards a New International Treaty",
+          "authors": "ASIL Insights",
+          "section": "Introduction",
+          "paragraph": "On December 2, 2024, the United Nations (UN) General Assembly adopted a resolution on Lethal Autonomous Weapons Systems with overwhelming support: 166 votes in favor, 3 opposed, and 15 abstentions. The resolution mentions the potential for a two-tiered approach to prohibit some lethal autonomous weapon systems (LAWS) while regulating others under international law.",
+          "url": "https://www.asil.org/insights/volume/29/issue/1",
+          "venue": "American Society of International Law",
+          "year": "2025",
+          "contribution": "completely supports",
+          "relevant_sentence": "The resolution mentions the potential for a two-tiered approach to prohibit some lethal autonomous weapon systems (LAWS) while regulating others under international law.",
+          "supporting_assumptions": [
+            "A UNGA resolution with overwhelming support indicates strong political will.",
+            "International law is referenced as the framework for prohibition."
+          ],
+          "refuting_assumptions": [
+            "Resolutions are not legally binding.",
+            "A two-tier system may not be a total ban."
+          ],
+          "credibility_score": "Published in ASIL Insights; monitors international law trends."
+        },
+        {
+          "claim": "The UN secretary-general has called for the conclusion, by 2026, of a legally binding instrument to prohibit lethal autonomous weapons systems that function without human control or oversight and that cannot comply with international humanitarian law.",
+          "title": "Considering a Legally Binding Instrument on Autonomous Weapons",
+          "authors": "C Trumbull",
+          "section": "Background",
+          "paragraph": "Although states presented a variety of views on the path forward, the secretary-general 'call[ed] for the conclusion, by 2026, of a legally binding instrument to prohibit lethal autonomous weapons systems that function without human control or oversight and that cannot be used in compliance with international humanitarian law, and to regulate all other types of autonomous weapons systems.'",
+          "url": "https://www.lawfaremedia.org/article/considering-a-legally-binding-instrument-on-autonomous-weapons",
+          "venue": "Lawfare",
+          "year": "2024",
+          "contribution": "completely supports",
+          "relevant_sentence": "the secretary-general 'call[ed] for the conclusion, by 2026, of a legally binding instrument to prohibit lethal autonomous weapons systems that function without human control or oversight and that cannot be used in compliance with international humanitarian law, and to regulate all other types of autonomous weapons systems.'",
+          "supporting_assumptions": [
+            "The secretary-general's call reflects high-level international agenda-setting.",
+            "The call is specific to a prohibition under international law."
+          ],
+          "refuting_assumptions": [
+            "The secretary-general's call does not guarantee realization.",
+            "States' positions remain varied."
+          ],
+          "credibility_score": "Cited by 2; Lawfare is a respected policy forum."
+        },
+        {
+          "claim": "Civil society organizations and international bodies have criticized the lack of a binding norm and have strongly backed the movement to ban autonomous weapons, with recent UNGA resolutions signaling a broader intent to pursue international legal regulation.",
+          "title": "Understanding the Global Debate on Lethal Autonomous Weapons Systems: An Indian Perspective",
+          "authors": "Carnegie Endowment for International Peace",
+          "section": "Emergence of Processes Outside the GGE",
+          "paragraph": "Despite the GGE’s ongoing efforts over the years, the movement to ban autonomous weapons has gained momentum. Civil society organizations, like Stop Killer Robots and the International Committee of the Red Cross, have strongly backed this cause, arguing that the GGE has failed to establish a binding norm and has fallen short of its ambitions to effectively regulate autonomous weapons. Some international bodies have also expressed dissatisfaction with the GGE’s work around IHL.",
+          "url": "https://carnegieendowment.org/research/2024/08/understanding-the-global-debate-on-lethal-autonomous-weapons-systems-an-indian-perspective?lang=en",
+          "venue": "Carnegie Endowment for International Peace",
+          "year": "2024",
+          "contribution": "conditionally supports",
+          "relevant_sentence": "Civil society organizations, like Stop Killer Robots and the International Committee of the Red Cross, have strongly backed this cause, arguing that the GGE has failed to establish a binding norm.",
+          "supporting_assumptions": [
+            "Civil society support is indicative of global advocacy momentum.",
+            "UNGA resolutions reflect this advocacy's impact on state agendas."
+          ],
+          "refuting_assumptions": [
+            "Lack of a binding norm means the ban is not currently in force.",
+            "Not all international bodies are aligned with this view."
+          ],
+          "credibility_score": "Published by leading global think tank."
+        },
+        {
+          "claim": "Despite converging calls for a ban, some militarily significant states continue to argue that existing international humanitarian law is sufficient, illustrating the ongoing complexity and debate surrounding the legal status of autonomous weapons.",
+          "title": "Understanding the Global Debate on Lethal Autonomous Weapons Systems: An Indian Perspective",
+          "authors": "Carnegie Endowment for International Peace",
+          "section": "Emergence of Processes Outside the GGE",
+          "paragraph": "Another significant critique regarding the GGE’s limitation is that militarily significant states have resisted the formulation of a new binding instrument, arguing that existing IHL is sufficient to regulate these weapons.",
+          "url": "https://carnegieendowment.org/research/2024/08/understanding-the-global-debate-on-lethal-autonomous-weapons-systems-an-indian-perspective?lang=en",
+          "venue": "Carnegie Endowment for International Peace",
+          "year": "2024",
+          "contribution": "conditionally refutes",
+          "relevant_sentence": "militarily significant states have resisted the formulation of a new binding instrument, arguing that existing IHL is sufficient to regulate these weapons.",
+          "supporting_assumptions": [
+            "Opposition from key states limits the universal adoption of a ban.",
+            "Legal complexity delays binding international action."
+          ],
+          "refuting_assumptions": [
+            "Majority support may eventually outweigh minority resistance.",
+            "Regulation under IHL may be insufficient for some stakeholders."
+          ],
+          "credibility_score": "Published by leading global think tank."
+        }
+      ]
+    }
+  }
+]
