@@ -53,12 +53,5 @@ SciTrue enables users to **verify**, **replicate**, and **challenge** AI-generat
 
 ---
 
-## 🚀 Demo and Access
 
-- 🌐 Web-based interactive demo  
-- 🪪 No login required for reviewers  
-- 📄 Human evaluation protocol and rubric included  
-- 📹 Built to meet EMNLP demo standards (6-page paper + video ready)
-
----
 
