@@ -36,10 +36,6 @@ Human evaluation shows **95–100% reliability** in SciTrue’s outputs, compare
 - Minimal verbosity
 - Clear UI and API-ready formatting
 
-### 🧪 Practical Evaluation
-- Evaluated on 100+ attributions by human annotators
-- **95% agreement rate**
-- Open protocol and scoring rubric included
 
 ### 🔒 Built for High-Stakes Domains
 Ideal for:
